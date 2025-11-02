@@ -1,18 +1,33 @@
-remote_theme: pages-themes/architect@v0.2.0
+
 title: Roger's homepage
 description: Ingénieur développeur & harmoniciste amateur, Sur Terre, nous naissons tous égaux mais certains sont plus égaux que d'autres.
+author: Roger Srey
+email: roger_srey@hotmail.com
+github_username:  srroger
+show_downloads: false
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+gfm_quirks: paragraph_end
+# theme: jekyll-theme-primer
+# SRRTEST remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/primer
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true # Auto-generate ID's for headings
 plugins:
-  - jekyll-relative-links
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CODEX.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+  - jekyll-remote-theme # https://github.com/benbalter/jekyll-remote-theme
+  - jekyll-default-layout # https://github.com/benbalter/jekyll-default-layout
+  - jekyll-default-layout # https://github.com/benbalter/jekyll-titles-from-headings
+  - jekyll-relative-links # https://github.com/benbalter/jekyll-relative-links
+  - jekyll-avatar # https://github.com/benbalter/jekyll-avatar
+sass:
+  # Where you keep your scss files
+  sass_dir: assets/css/
+  # Where sass should look for other scss
+  load_paths:
+    - node_modules/
