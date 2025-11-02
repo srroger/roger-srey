@@ -1,8 +1,9 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
 title: Roger's homepage
 description: Ingénieur développeur & harmoniciste amateur, Sur Terre, nous naissons tous égaux mais certains sont plus égaux que d'autres.
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 relative_links:
   enabled: true
   collections: true
