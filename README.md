@@ -11,7 +11,7 @@ lastmod: 03-11-25
 mais certains sont plus égaux que d'autres."
 
 ## Quelques harmos
-![[/images/HarmoRayonX.jpeg]]
+![](/images/HarmoRayonX.jpeg)
 
 ![](/images/HarmonicaRadioAnonym.jpeg)
 
