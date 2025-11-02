@@ -1,5 +1,5 @@
 
-## 🔧 **Résumé de ta configuration**
+## 🔧 **Résumé de ma configuration**
 
 | Élément             | Détail                                                           |
 | ------------------- | ---------------------------------------------------------------- |
@@ -11,9 +11,6 @@
 | **Système**         | Manjaro Linux avec KDE Plasma 6.3.4                              |
 | **Date BIOS**       | Avril 2019 (donc laptop d’environ 2016–2017)                     |
 
-
-
-Merci pour la sortie ! Voilà un **résumé clair et organisé** de la configuration matérielle de ton **ASUS GL502VML** :
 
 ---
 
