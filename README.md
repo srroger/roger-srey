@@ -1,10 +1,3 @@
----
-title: Roger Srey
-description: Harmoniciste amateur
-author: Roger Srey
-date: 02-11-25
-lastmod: 03-11-25
----
 # Roger Srey
 ## Ingénieur développeur & harmoniciste amateur
 "Sur Terre, nous naissons tous égaux
@@ -19,5 +12,7 @@ mais certains sont plus égaux que d'autres."
 Ce site n'est utile que pour moi-même.
 
 [Inventaire](./Inventaire)
+
+[Maison](./Maison)
 
 [Ma config perso](./MaConfigPC)
