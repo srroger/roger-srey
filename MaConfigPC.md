@@ -5,6 +5,8 @@ author: Roger Srey
 date: 02-11-25
 lastmod: 03-11-25
 ---
+[< Home](./README)
+
 ## 🔧 **Résumé de ma configuration**
 
 | Élément             | Détail                                                           |
