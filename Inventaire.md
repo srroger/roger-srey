@@ -8,10 +8,18 @@ lastmod: 03-11-25
 Mon matos
 
 # Escalade
-- Corde (à renseigner:  longueur et date d'achat)
-- 10 dégaines
-- 3 mousquetons
-- 1 vache
+- 1 corde 80m 10mm Jan-2020
+- 1 sac bandouillère pour corde Jan-2020
+- 10 dégaines Jan-2020
+- 3 mousquetons Jan-2020
+- 1 descendeur simple Jan-2020
+- 1 vache Jan-2020
+- 1 baudrier avant 2020
+- 1 pof a magnésie Simond
+- Chausson Katana Fev-2025
+
+
+- 1 slackline
 
 # Musique
 - Stratocaster
