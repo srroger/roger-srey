@@ -23,6 +23,13 @@ Mon matos
 
 - 1 slackline
 
+# Velo
+- VTT BH
+    - Roue 26x2.0 (Gros Schrader)
+- Velo MBK
+    - Roue 700x35C (Fin)
+
+
 # Musique
 - Stratocaster
 - Dowina (acoustique)
