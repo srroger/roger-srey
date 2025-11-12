@@ -164,3 +164,11 @@ lastmod: 2025-03-11
 - Autres pièces en réserve...
 
 ---
+
+[1]: https://www.mcustausa.com  
+[2]: https://www.eurotechni.com/fr/acier/z40c13-x46cr13  
+[3]: https://www.coutellerie-tourangelle.com  
+[4]: https://www.couteauxduchef.com  
+[6]: https://www.japanzen.com  
+[8]: https://www.sabatier-shop.com  
+[9]: https://www.knifeworks.com
