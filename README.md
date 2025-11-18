@@ -13,6 +13,8 @@ Ce site n'est utile que pour moi-même.
 
 [Inventaire](./Inventaire)
 
+[Livres](./Livres)
+
 [Maison](./Maison)
 
 [Ma config perso](./MaConfigPC)
