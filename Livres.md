@@ -11,178 +11,220 @@ lastmod: 2025-18-11
 
 ---
 
-## SF
-- Océanique - Greg Egan (en cours)
-- Des fleurs pour Algernon - Daniel Keyes (en cours)
-- Toutes les saveurs - Ken Liu (non lu) 
-- Le sultan des nuages - Geoffrey A. Landis (non lu)
-- 24 vues, du mont fuji, par Hokusai - Roger Zelazny (non lu)
-- Cérès et Vesta - Greg Egan (non lu)
-- Les meutres de Molly southbourne - Tade Thompson (lu) (Est vraiment chouette)
-- Hypérion 1 - Dan Simmons (lu)
-- Hypérion 2 - Dan Simmons (lu)
-- Révolte sur la Lune - Rober Heinlein (non lu)
-- L'univers-ombre - Michel Jeury (non lu) 
-- La trilogie Martienne (Mars la Rouge, Mars la Verte, Mars la Bleue) - Kim Stanley Robinson (lu la moitié) (très cool, mais long)
-- 2312 - Kim Stanley Robinson (non lu)
-- Des milliards de Tapis de cheveux - Andreas Eschbach (lu) (très cool)
-- Les chroniques des années noires - Kim Stanley Robinson (lu) (Génial, éducatif)
-- La mémoire de la lumière - Kim Stanley Robinson (non lu)
-- Le rêve de Galilée - Kim Stanley Robinson (non lu)
-- Ferrements et autres poèmes - Césaire (lu)
-- Danses aériennes - Nancy Kress (non lu)
-- La trilogiede Wielstadt - Pierre Pevel (non lu)
-- Rendez-vous avec Rama - Arthur C. Clarke (non lu)
-- Les dépossédés - Ursula K. Leguin (lu) (top)
-- La main gauche de la nuit - Ursula K. Leguin (non lu)
-- Aux douze vents du monde - Ursula K. Leguin (non lu)
-- L'ours et le rossignol - Katherine Adren (abandonné) (sympa, dommage que j'ai arrêté)
-- Demain les chiens - Clifford D. Simak (suspendu) (a reprendre car très chouette)
-- Mes vraies enfants - Jo Walton (abandonné) (pas ouf du tout, trop féministe sans surprise)
-- Deus irae - Dick et Zelazny (non lu)
-- Le chant du barde - Poul Anderson (non lu)
-- Sjambak - Jack Vance (non lu)
-- The complete robot - Isaac Asimov (suspendu)
-- Être un chene - Laurent Tillon (non lu)
-- Expiration - Ted Chiang (suspendu)
-- L'ile des morts - Roger Zelazny (lu) (pas ouf)
-- La tour de Babylone - Ted Chiang (lu) (top)
-- Les nuages de magellan - Estelle Faye (non lu)
-- Un éclat de gibre - Estelle Faye (non lu)
-- Frankenstein - Mary Shelley (non lu)
-- Sans parler du chien - Connie Willi (abandonné) (un polar énergique qui pourrait être chouette a reprendre)
-- Le problème à trois corps - Liu Cixin (lu) (stiley et accrocheur)
-- La forêt Sombre - Liu Cixin (suspendu)
-- Gagner la guerre - Jean-Phillipe Jaworski (abandonné) (Très bon mais après la moitié, dur de continuer)
-- Dans la toile du temps - Adrian Tchaikovsky (non lu)
-- Radieux - Greg Egan (non lu)
+## Science-Fiction
 
+- **En cours**
+  - Océanique - Greg Egan
+  - Des fleurs pour Algernon - Daniel Keyes
 
+- **Lu**
+  - Les meurtres de Molly Southbourne - Tade Thompson (vraiment chouette)
+  - Hypérion 1 - Dan Simmons
+  - Hypérion 2 - Dan Simmons
+  - La trilogie Martienne (Mars la Rouge, Mars la Verte, Mars la Bleue) - Kim Stanley Robinson (lu moitié, très cool mais long)
+  - Des milliards de tapis de cheveux - Andreas Eschbach (très cool)
+  - Les chroniques des années noires - Kim Stanley Robinson (génial, éducatif)
+  - Ferrements et autres poèmes - Aimé Césaire
+  - L'île des morts - Roger Zelazny (pas ouf)
+  - La tour de Babylone - Ted Chiang (top)
+  - Le problème à trois corps - Liu Cixin (stiley et accrocheur)
+  - La ménagerie de papier - Ken Liu (coup de cœur)
+  - Axiomatique - Greg Egan (coup de cœur)
+
+- **Non lu**
+  - Toutes les saveurs - Ken Liu
+  - Le sultan des nuages - Geoffrey A. Landis
+  - 24 vues du mont Fuji, par Hokusai - Roger Zelazny
+  - Cérès et Vesta - Greg Egan
+  - Révolte sur la Lune - Robert Heinlein
+  - L'univers-ombre - Michel Jeury
+  - 2312 - Kim Stanley Robinson
+  - La mémoire de la lumière - Kim Stanley Robinson
+  - Le rêve de Galilée - Kim Stanley Robinson
+  - Danses aériennes - Nancy Kress
+  - La trilogie de Wielstadt - Pierre Pevel
+  - Rendez-vous avec Rama - Arthur C. Clarke
+  - La main gauche de la nuit - Ursula K. LeGuin
+  - Aux douze vents du monde - Ursula K. LeGuin
+  - Deus Irae - Philip K. Dick & Roger Zelazny
+  - Le chant du barde - Poul Anderson
+  - Sjambak - Jack Vance
+  - Être un chêne - Laurent Tillon
+  - Les nuages de Magellan - Estelle Faye
+  - Un éclat de givre - Estelle Faye
+  - Frankenstein - Mary Shelley
+  - Dans la toile du temps - Adrian Tchaikovsky
+  - Radieux - Greg Egan
+
+- **Suspendu**
+  - Demain les chiens - Clifford D. Simak
+  - The Complete Robot - Isaac Asimov
+  - Expiration - Ted Chiang
+  - La forêt sombre - Liu Cixin
+
+- **Abandonné**
+  - L'ours et le rossignol - Katherine Arden
+  - Mes vraies enfants - Jo Walton
+  - Sans parler du chien - Connie Willis
+  - Gagner la guerre - Jean-Philippe Jaworski
+
+---
 
 ## Fantasy
-- Le livre jaune - Michael Roch (non lu)
-- Les lames du cardinal - Pierre Pevel (non lu)
-- Annihilation - Jeff Vandermeer (non lu)
-- La horde du contrevent - Alain Damasio (non lu)
-- L'échiquier du mal - Dan Simmmons (non lu)
-- Le Donjon de Naheulbeuk, Intégral 1 - John Lang (lu)
-- Une colonne de feu - Ken Follet (non lu)
-- Mage de guerre - Stephen Aryan (non lu)
-- La grâce des rois, La dynastie dents de lion 1 - Ken Liu (lu)
-- Anamnèse de lady star - L. L. Kloetzer (lu) (top)
-- Les princes d'ambres - Roger Zelazny (lu) (pas mal)
-- Kleer - L. L. Kloetzer (non lu)
-- Le déchronologue - Stéphane Beauverger (lu) (beau verbe a la pirate)
-- Les jours étrange de Nostradamus - Jean Philippe Depotte (Lu)
-- La proie - Michael Chricton (lu) (sympa)
-- Lavinia - Ursula K Leguin (lu) (éthéré fémḿiste)
-- Le travail du furet - Jean-Pierre Andrevom (non lu)
 
+- **Lu**
+  - Le Donjon de Naheulbeuk, Intégral 1 - John Lang
+  - La grâce des rois, La dynastie dents de lion 1 - Ken Liu
+  - Anamnèse de Lady Star - L. L. Kloetzer (top)
+  - Les princes d'Ambre - Roger Zelazny (pas mal)
+  - Le déchronologue - Stéphane Beauverger (beau verbe à la pirate)
+  - Les jours étranges de Nostradamus - Jean-Philippe Depotte
+  - La proie - Michael Crichton (sympa)
+  - Lavinia - Ursula K. LeGuin (éthéré féministe)
+
+- **Non lu**
+  - Le livre jaune - Michael Roch
+  - Les lames du cardinal - Pierre Pevel
+  - Annihilation - Jeff VanderMeer
+  - La horde du contrevent - Alain Damasio
+  - L'échiquier du mal - Dan Simmons
+  - Une colonne de feu - Ken Follet
+  - Mage de guerre - Stephen Aryan
+  - Kleer - L. L. Kloetzer
+  - Le travail du furet - Jean-Pierre Andrevom
+
+---
 
 ## Musique
-- Théorie de la musique - Alfons Danhauser (lu)
-- Jazz mode d'emploi, vol. 1 - Philippe Baudoin (en cours)
-- Jazz mode d'emploi, vol. 2 - Philippe Baudoin (en cours)
-- Precious box - Sebastien Charlier (en cours)
-- Rhythms of the breath, vol 1 - Howard Levy (en cours)
-- Le cycle des quintes, un apprentissage visuel ; Approche alternative à l'étude du solfège outils visuels pour les musiciens, Livre 1  - Phlip Jackson (lu)
-- La partition intérieur, Jazz, musiques improvisées - Jacques Siron (en cours)
-- Les cahiers de l'harmonica; Réglages de l'harmonica diatonique - Jérôme Peyrelevade (lu)
-- Les cahiers de l'harmonica; Les bases harmoniques, vol. 1 - Sébastien Charlier (lu)
-- Jazz, L'histoire les musiciens, les styles, les disques - André Francis (non lu)
-- Le basson n'est pas contagieux - Vincent Lajoinie (lu)
-- L'harmonica pour les nuls (lu a moitié)
 
-## Coaching / Educatif
-- Le pouvoir rhétorique - Clément Viktorovitch (suspendu)
-- Prendre la parole en public pour les nuls (Business) (feuilleté)
-- Savoir répondre du Tac au tac - Cyril Gely (feuilleté)
-- Comment parler à n'importe qui dans toutes les situation - Tim Fearon, Emma Sargent (feuilleté)
-- Le fabuleux pouvoir de votre cerveau - Deepak Chopra, Rudolph E. Tanzi (non lu)
-- Histoire de Béziers - Privat (non lu)
-- 3 minutes pour comprendre les 50 plus grandes théories de, la physique quantique - Brian Cleg (feuilleté)
-- 1 Faute / jour - Bruno Dewaele (feuilleté)
-- Le guide de l'astronome débutant - Radmila Topalovic, Tom Kerss (non lu)
-- Soleil noir, Dépression et mélancolie - Julia Kristeva (non lu)
-- La dynamique des groupes restreins - Didier Anzieu, Jacques-Yves Martin (feuilleté)
-- Le houblonomicon, Tout ce qu'on ne vous a jamais dit sur la bière - Jivay (lu)
-- Jouissance club - June pla (lu) (sympa mais qlq défauts quand même, mais reste un bon livre sur la sexualité à conseiller)
-- La dynamique des groupes - Roger Muccieli (non lu)
-- Phychologie sociale, Communication et langage - Phillipe Castel, Edith Salès-Wuillemin, Marie-Francoise Lacassagne (non lu)
-- Le monde comme volonté et comme représentation - Arthur Schopenhauer (abandonné)
-- Dialectique du moi et de l'inconscient - C.G. Yung (non lu)
-- Métamorphose de l'âme et ses symboles - C.G. Yung (non lu)
-- Sociologie des réseaux sociaux - Pierre Mercklé (non lu)
+- **En cours**
+  - Jazz mode d'emploi, vol. 1 - Philippe Baudoin
+  - Jazz mode d'emploi, vol. 2 - Philippe Baudoin
+  - Precious Box - Sébastien Charlier
+  - Rhythms of the Breath, vol 1 - Howard Levy
+  - La partition intérieure, Jazz, musiques improvisées - Jacques Siron
+  - La vie est plus belle en musique - Claire-Marie Le Guay
 
+- **Lu**
+  - Théorie de la musique - Alfons Danhauser
+  - Le cycle des quintes, un apprentissage visuel - Philip Jackson
+  - Les cahiers de l'harmonica ; Réglages de l'harmonica diatonique - Jérôme Peyrelevade
+  - Les cahiers de l'harmonica ; Les bases harmoniques, vol.1 - Sébastien Charlier
+  - Le basson n'est pas contagieux - Vincent Lajoinie
+
+- **Non lu**
+  - Jazz, L'histoire, les musiciens, les styles, les disques - André Francis
+  - L'harmonica pour les nuls (lu à moitié)
+
+---
+
+## Coaching / Éducatif
+
+- **Lu**
+  - Le houblonomicon - Jivay
+  - Jouissance Club - June Pla
+
+- **Feuilleté**
+  - Prendre la parole en public pour les nuls
+  - Savoir répondre du tac au tac - Cyril Gely
+  - Comment parler à n'importe qui dans toutes les situations - Tim Fearon, Emma Sargent
+  - 3 minutes pour comprendre les 50 plus grandes théories de la physique quantique - Brian Clegg
+  - 1 Faute / jour - Bruno Dewaele
+  - La dynamique des groupes restreints - Didier Anzieu, Jacques-Yves Martin
+
+- **Non lu**
+  - Le fabuleux pouvoir de votre cerveau - Deepak Chopra, Rudolph E. Tanzi
+  - Histoire de Béziers - Privat
+  - Le guide de l'astronome débutant - Radmila Topalovic, Tom Kerss
+  - Soleil noir, Dépression et mélancolie - Julia Kristeva
+  - La dynamique des groupes - Roger Muccieli
+  - Psychologie sociale, Communication et langage - Philippe Castel, Edith Salès-Wuillemin, Marie-Françoise Lacassagne
+  - Dialectique du moi et de l'inconscient - C.G. Jung
+  - Métamorphose de l'âme et ses symboles - C.G. Jung
+
+- **Abandonné**
+  - Le monde comme volonté et comme représentation - Arthur Schopenhauer
+
+---
 
 ## Histoire
-- Le Cambodge de 1945 à nos jours - Philippe Richer (feuilleté)
-- Cambodge le sourire Bâillonné - Ly Heng, Franćoise Demeure (non lu)
-- Dictionnaire insolite du Cambodge - Bernard Dupaigne (non lu)
-- Cambodge - National Geographic (lu)
-- Cambodge - Petit futé (lu)
-- Angkor cité khmère - Claude Jacques, Michael Freeman (lu)
-- Les fausse nouvelles - Ph Bourdin, S. Le Bars (non lu)
 
+- **Lu**
+  - Cambodge - National Geographic
+  - Cambodge - Petit Futé
+  - Angkor cité khmère - Claude Jacques, Michael Freeman
 
-## Informatique
+- **Feuilleté**
+  - Le Cambodge de 1945 à nos jours - Philippe Richer
 
-## Manga/BD
-- L'homme qui marche - Jiro Taniguchi (non lu)
-- Le gourmet solitaire - Jiro Taniguchi (lu)
-- Dreamland T1-5 (lu)
-- La horde du contrevent, BD - Eric Henniot (non lu) (j'attend de finir le roman avant de commencer)
-- Siegfried - Alex Alice (lu) (sympa, belles images et léger)
-- Dans la combi de Thomas Pesquet - Marion Montaigne (abandonné) (lecture de plage pas mal)
-- Notes de trail, première foulées - Des bosses et des bulles (abandonné) (lecture de plage pas mal)
+- **Non lu**
+  - Cambodge le sourire bâillonné - Ly Heng, Françoise Demeure
+  - Dictionnaire insolite du Cambodge - Bernard Dupaigne
+  - Les fausses nouvelles - Ph Bourdin, S. Le Bars
 
+---
+
+## Manga / BD
+
+- **Lu**
+  - Le gourmet solitaire - Jiro Taniguchi
+  - Dreamland T1-5
+  - Siegfried - Alex Alice
+
+- **Non lu**
+  - L'homme qui marche - Jiro Taniguchi
+  - La horde du contrevent, BD - Eric Henniot (attente de finir le roman)
+
+- **Abandonné**
+  - Dans la combi de Thomas Pesquet - Marion Montaigne
+  - Notes de trail, première foulée - Des Bosses et des Bulles
+
+---
 
 ## Vrac
-- La vie est plus belle en musique - Claire-Marie Le Guay (en cours)
-- Esclaves chrétiens Maîtres musulmans - Robert C. Davis (non lu)
-- Les almanachs Balthasar, Trésor de gaité - Festin humoristique, 1923 - 1924 - 1925 - 1926 - Henri Roorda (lu)
-- Mon suicide - Henri Roorda (lu) (extrêmement touchant)
-- Sociologie et anthropologie - Marcel Mauss (non lu)
-- Et il me parla de cerisiers de poussières et d'une montagne - Antoine Paje (non lu)
-- Le dernier problème et autres aventure de Sherlock Holmes - Arthur Conan Doyle (non lu)
-- Le passeur - Lois Lowry (non lu)
-- Après le tremblement de terre - Haruki Murakami (non lu)
-- Moby Dick - Melville (abandonné) (un classique, mais les chapitres docu sur la baleine)
-- Chromozone, La trilogie Chromozone 1 - Stéphane Beauverger (lu) (pas mal)
-- Les noctivores, La trilogie Chromozone 2 - Stéphane Beauverger (non lu)
-- La cité nmphale, La trilogie Chromozone 2  - Stéphane Beauverger (non lu)
-- American psycho - Bret Easton Ellis (non lu)
-- Fables - Jean de la fontaine (non lu)
-- Le Crane parfait de Lucien Bel - Jean-Philippe Depotte (non lu)
-- 1Q84 Livre 1 - Haruki Murakami (non lu)
-- 1Q84 Livre 2 - Haruki Murakami (non lu)
-- 1Q84 Livre 3 - Haruki Murakami (non lu)
-- rebelle - Caragh M. O Brien (non lu)
-- L'homme nu - Marc Dugain, Christophe Labbe (lu) (très belle analyse)
-- L'homme qui s'envola - Antoine Bello (lu) (pas mal mais sans plus)
-- Gilgamesh, roi d'Ourouk - Robert Silverberg (lu) (Educatif, mais tjrs trop de cul)
-- Le livre des cranes - Robert Silverberg (lu) (pas mal, mais tjr trop de cul)
-- Neverwhere - Neil Gaiman (abandonné) (pas mal, dommage que j'ai pas fini)
-- De bon présage - Neil Gaiman, Terry Pratchett (non lu)
-- Les ames croisées - Pierre Bottero (non lu) (on me la prété mais trop ado, je le lirai pas)
-- La foret des captifs - Pierre Bottero (non lu) (on me la prété mais trop ado, je le lirai pas)
-- D'un monde à l'autre - Pierre Bottero (non lu) (on me la prété mais trop ado, je le lirai pas)
-- L'oeil d'otolep - Pierre Bottero (non lu) (on me la prété mais trop ado, je le lirai pas)
-- L'ile du destin - Pierre Bottero (non lu) (on me la prété mais trop ado, je le lirai pas)
-- Les frontières de glace - Pierre Bottero (non lu) (on me la prété mais trop ado, je le lirai pas)
-- Les tentacules du mal - Pierre Bottero (non lu) (on me la prété mais trop ado, je le lirai pas)
-- Ellana l'envol- Pierre Bottero (non lu) (on me la prété mais trop ado, je le lirai pas)
-- Ellana - Pierre Bottero (non lu) (on me la prété mais trop ado, je le lirai pas)
-- La huitième porte - Pierre Bottero (non lu) (on me la prété mais trop ado, je le lirai pas)
-- Dans la dèche à Paris et à Londres - George Orwell (non lu)
-- Les enfants de l'atome - Joyce Thompson (non lu)
-- Sorceleur - Andrezek Sapkowski (abandonné) (en série ou en jeux-vidéo c'est bien, mais en roman, c'est pas ouf du tout...)
-- Le pistolero - Stephen King (non lu)
-- Cyrano de bergerac - Edmond Rostand (non lu)
-- Ce que le jor doit à la nuit - Yasmina Khadra (non lu)
-- L'encyclopédie du savoir relatif et absolu - Bernard Werber (non lu)
-- Le rouge et le noir - Stendhal (non lu)
-- Les fleurs du mal - Beaudelaire (non lu)
-- La course au  moutons sauvage - Haruki Murakami (non lu)
-- Le monde perdu - Sir Arthur Conan Doyle (non lu)
-- Tolkien, voyage en terre du milieu (lu)
+
+- **Lu**
+  - Les almanachs Balthasar, Trésor de gaieté 1923-1926 - Henri Roorda
+  - Mon suicide - Henri Roorda
+  - L'homme nu - Marc Dugain, Christophe Labbe
+  - L'homme qui s'envola - Antoine Bello
+  - Gilgamesh, roi d'Ourouk - Robert Silverberg
+  - Le livre des crânes - Robert Silverberg
+  - Tolkien, voyage en terre du milieu
+
+- **Non lu**
+  - Esclaves chrétiens, maîtres musulmans - Robert C. Davis
+  - Sociologie et anthropologie - Marcel Mauss
+  - Et il me parla de cerisiers de poussière et d'une montagne - Antoine Paje
+  - Le dernier problème et autres aventures de Sherlock Holmes - Arthur Conan Doyle
+  - Le passeur - Lois Lowry
+  - Après le tremblement de terre - Haruki Murakami
+  - Les noctivores, La trilogie Chromozone 2 - Stéphane Beauverger
+  - La cité nymphale, La trilogie Chromozone 2 - Stéphane Beauverger
+  - American Psycho - Bret Easton Ellis
+  - Fables - Jean de La Fontaine
+  - Le crâne parfait de Lucien Bel - Jean-Philippe Depotte
+  - 1Q84 Livre 1-3 - Haruki Murakami
+  - Rebelle - Caragh M. O'Brien
+  - De bon présage - Neil Gaiman, Terry Pratchett
+  - Les âmes croisées - Pierre Bottero
+  - La forêt des captifs - Pierre Bottero
+  - D'un monde à l'autre - Pierre Bottero
+  - L'œil d'Otolep - Pierre Bottero
+  - L'île du destin - Pierre Bottero
+  - Les frontières de glace - Pierre Bottero
+  - Les tentacules du mal - Pierre Bottero
+  - Ellana l'envol - Pierre Bottero
+  - Ellana - Pierre Bottero
+  - La huitième porte - Pierre Bottero
+  - Dans la dèche à Paris et à Londres - George Orwell
+  - Les enfants de l'atome - Joyce Thompson
+  - Sorceleur - Andrzej Sapkowski
+  - Le pistolero - Stephen King
+  - Cyrano de Bergerac - Edmond Rostand
+  - Ce que le jour doit à la nuit - Yasmina Khadra
+  - L'encyclopédie du savoir relatif et absolu - Bernard Werber
+  - Le rouge et le noir - Stendhal
+  - Les fleurs du mal - Baudelaire
+  - La course aux moutons sauvages - Haruki Murakami
+  - Le monde perdu - Sir Arthur Conan Doyle
