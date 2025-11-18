@@ -19,7 +19,53 @@ lastmod: 2025-18-11
 ## 🔖 Prochaines lectures
 - La main gauche de la nuit - Ursula K. LeGuin (non lu)
 - Rendez-vous avec Rama - Arthur C. Clarke (non lu)
-- (À décider : suggestions à venir selon tes goûts SF / Hard SF / récits humains)
+
+## 🔜 Prochains à lire (parmi ta bibliothèque)
+
+- **Radieux – Greg Egan**  
+  *Résumé / description :* Il s'agit du recueil *Luminous* (titre français “Radieux”), contenant la nouvelle “Luminous” (et d'autres) qui explore des concepts profonds de vérité mathématique, conscience, frontière entre le réel et l’abstrait. :contentReference[oaicite:0]{index=0}  
+  *+* Idéal pour poursuivre ta plongée dans la SF “d’idée” après *Océanique*. Très riche conceptuellement, parfait pour réfléchir et se cultiver.  
+  *−* Certaines nouvelles peuvent être très abstraites / cérébrales, moins “narration classique”.  
+  *Quand :* à lire après avoir bien avancé ou fini *Océanique*, pour rester dans le thème Eganien.
+
+- **Cérès et Vesta – Greg Egan**  
+  *Résumé / description :* Roman hard-SF typique d’Egan, explorant la colonisation des astéroïdes, les intelligences artificielles, les conséquences morales des technologies avancées.  
+  *+* Beaucoup de potentiel “idée + thriller spatial”. Parfait si tu veux des mondes d’Egan un peu plus “concrets / spatiaux” que ses nouvelles abstraites.  
+  *−* Peut être dense ; certaines parties très techniques.  
+  *Quand :* quand tu veux passer à un roman long d’Egan.
+
+- **2312 – Kim Stanley Robinson**  
+  *Résumé / description :* Se déroule en l’an 2312 dans un système solaire colonisé. Le roman mêle politique, écologie, technologie quantique, architecture spatiale, biotechnologie. :contentReference[oaicite:1]{index=1}  
+  *+* Très “hard / soft mix” : construire des habitats dans le Système solaire, terraformation, enjeux climatiques, économie future. Beaucoup d’ambition.  
+  *−* Le rythme peut être lent, et certains trouvent les personnages moins “attachants” ou le début dense. :contentReference[oaicite:2]{index=2}  
+  *Quand :* idéal pour un moment “lecture immersive + réflexion globale”.
+
+- **La mémoire de la lumière – Kim Stanley Robinson**  
+  *Résumé / description :* (Il faut vérifier l’intrigue selon ton édition, mais typique des romans de KSR autour de la physique, des futurs “humanisés” et de la transformation sociétale.)  
+  *+* Offre une vision vaste, philosophique + scientifique.  
+  *−* Peut-être plus lent, moins “action”.  
+  *Quand :* quand tu veux une SF contemplative mais solide.
+
+- **Le rêve de Galilée – Kim Stanley Robinson**  
+  *Résumé / description :* Encore un roman de KSR, probablement mêlant histoire, science, utopie / dystopie. (Vérifie le résumé dans ta version)  
+  *+* Permet de varier entre SF “spatial + historique” et SF purement futuriste.  
+  *−* Potentiellement plus “théorique” qu’un roman d’action.  
+  *Quand :* bon pendant une phase lecture plus lente, de réflexion.
+
+- **Dans la toile du temps – Adrian Tchaikovsky**  
+  *Résumé / description :* Roman ambitieux : une partie de l’humanité coexiste avec une espèce d’araignées intelligentes, évolution, civilisation, coopération / conflit. :contentReference[oaicite:3]{index=3}  
+  *+* Très original, conceptuel, “épique mais tech / biologie”, très adapté à ton goût SF.  
+  *−* Certains lecteurs trouvent que ça traîne, ou que le style se perd dans des détails selon la Fnac. :contentReference[oaicite:4]{index=4}  
+  *Quand :* quand tu veux une lecture ambitieuse, portée sur l’évolution des civilisations.
+
+- **Révolte sur la Lune – Robert Heinlein**  
+  *Résumé / description :* Classique de la SF, action + politique + colonisation lunaire.  
+  *+* Une lecture plus “classique” / divertissante, bon point d’équilibre entre idées et aventure.  
+  *−* Moins “hard science” que certains autres, parfois idéologique.  
+  *Quand :* quand tu veux faire une pause entre des lectures très conceptuelles.
+
+- **La mémoire de la lumière** (version alternative si tu ne l’as pas encore priorisé)  
+  (Remarque : je réitère s’il y a deux KSR “mémoire” dans ta liste, sinon ignore.)
 
 ---
 
@@ -207,8 +253,56 @@ lastmod: 2025-18-11
   - Les fleurs du mal - Baudelaire
   - La course aux moutons sauvages - Haruki Murakami
   - Le monde perdu - Sir Arthur Conan Doyle
-
   
+---
+
+## 💭 Wishlist SF / Imaginaire
+
+- **Exhalation – Ted Chiang**  
+  *Pourquoi :* Recueil de nouvelles très profondes, mêlant conscience, temps, IA, causalité. Parfait pour te nourrir intellectuellement.  
+  *+* Idées incroyables, écriture élégante, réflexion métaphysique.  
+  *−* Certaines nouvelles sont très courtes, d’autres très denses.
+
+- **Les Furtifs – Alain Damasio**  
+  *Pourquoi :* Si tu veux une fantasy / SF très inventive, politique et sensorielle.  
+  *+* Langage très travaillé, univers original, réflexion sur la liberté.  
+  *−* Style exigeant, peut être difficile à lire (mais gratifiant).
+
+- **Use of Weapons – Iain M. Banks**  
+  *Pourquoi :* SF philosophique + space opera + intrigue profonde / non linéaire.  
+  *+* Structure narrative brillante, univers Culture riche, question d’identité.  
+  *−* Parfois déroutant, nécessite de bien s’impliquer pour suivre l’histoire.
+
+- **Blindsight – Peter Watts**  
+  *Pourquoi :* SF très hard, sur la conscience, l’intelligence extraterrestre, le “moi”.  
+  *+* Concepts scientifiques très poussés, pensée radicale.  
+  *−* Pas beaucoup d’action, beaucoup de théorie, un ton froid.
+
+- **La Cinquième Saison – N.K. Jemisin**  
+  *Pourquoi :* Fantasy plus sociale, avec des idées très fortes sur la nature, le pouvoir, le changement.  
+  *+* Personnages profonds, écriture moderne, monde rigoureux et riche.  
+  *−* Fantasy très “sérieuse”, peut ne pas être détente pure.
+
+- **Permutation City – Greg Egan**  
+  *Pourquoi :* Un de ses romans les plus conceptuels : simulation, identité, réalité multiple.  
+  *+* Idées radicales, SF d’intelligence, réflexion profonde.  
+  *−* Très dense, peut être déroutant sans être bien préparé.
+
+- **Aurora – Kim Stanley Robinson**  
+  *Pourquoi :* SF “biologique” + exploration : un vaisseau générationnel, un équilibre entre l’humain et la nature cosmique.  
+  *+* Très humain, très réfléchi, pas “space opera classique”.  
+  *−* Peut paraître mélancolique, moins orienté action.
+
+- **Children of Time – Adrian Tchaikovsky**  
+  *Pourquoi :* Si tu as aimé *Dans la toile du temps*, ce roman est une épopée arachnéenne / évolutionniste majeure.  
+  *+* Invention très forte, biologie évolutive, civilisation non humaine fascinante.  
+  *−* Le rythme peut être lent, la densité conceptuelle est importante.
+
+- **The Dispossessed – (autre édition / version) Ursula K. Le Guin**  
+  *Pourquoi :* Tu as déjà aimé *Les Dépossédés*, mais une autre édition peut te relancer sur son univers / idées.  
+  *+* Idéologie, utopie, réflexion politique.  
+  *−* Style philosophique, pas d’action spectaculaire.
+
 ---
   
 ## 📚 Mini-descriptions & commentaires (chatGPT)
