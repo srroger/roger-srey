@@ -78,6 +78,7 @@ lastmod: 2025-18-11
 - Anamnèse de Lady Star - L. L. Kloetzer (lu) : Perturbant, confusant, kiffant
 - Le problème à trois corps - Liu Cixin (lu)
 - Hypérion 1 & 2 - Dan Simmons (lu) : Ecouté en audio, et vraiment stiley !
+- Terremer - Ursula K. LeGuin (lu) : Du Ghibli
 
 ---
 
@@ -144,6 +145,7 @@ lastmod: 2025-18-11
   - Les jours étranges de Nostradamus - Jean-Philippe Depotte
   - La proie - Michael Crichton
   - Lavinia - Ursula K. LeGuin
+  - Terremer - Ursula K. LeGuin (lu) : Du Ghibli
 - 📖 **Non lu**
   - Le livre jaune - Michael Roch
   - Les lames du cardinal - Pierre Pevel
