@@ -26,14 +26,12 @@ lastmod: 2025-18-11
 ## 💖 Coups de cœur
 - La ménagerie de papier - Ken Liu (lu) : nouvelles exceptionnelles, puissance humaine + SF
 - Axiomatique - Greg Egan (lu) : Hard SF enrichissante
-- Hypérion 1 & 2 - Dan Simmons (lu)
-- Les chroniques des années noires - Kim Stanley Robinson (lu)
-- Des milliards de tapis de cheveux - Andreas Eschbach (lu)
-- Anamnèse de Lady Star - L. L. Kloetzer (lu)
-- La tour de Babylone - Ted Chiang (lu)
+- Les Dépossédés - Ursula K. LeGuin (lu) : Vive l'anarchisme !
+- Les chroniques des années noires - Kim Stanley Robinson (lu) : Exceptionnelle uchronie
+- Des milliards de tapis de cheveux - Andreas Eschbach (lu) : Marquant
+- Anamnèse de Lady Star - L. L. Kloetzer (lu) : Perturbant, confusant, kiffant
 - Le problème à trois corps - Liu Cixin (lu)
-- Lavinia - Ursula K. LeGuin (lu)
-- Gilgamesh, roi d'Ourouk - Robert Silverberg (lu)
+- Hypérion 1 & 2 - Dan Simmons (lu) : Ecouté en audio, et vraiment stiley !
 
 ---
 
