@@ -20,10 +20,10 @@ lastmod: 2025-18-11
 - La main gauche de la nuit - Ursula K. LeGuin (non lu)
 - Rendez-vous avec Rama - Arthur C. Clarke (non lu)
 
-## 🔜 Prochains à lire (parmi ta bibliothèque)
+## 🔜 Prochains à lire (parmi ta bibliothèque - ChatGPT)
 
 - **Radieux – Greg Egan**  
-  *Résumé / description :* Il s'agit du recueil *Luminous* (titre français “Radieux”), contenant la nouvelle “Luminous” (et d'autres) qui explore des concepts profonds de vérité mathématique, conscience, frontière entre le réel et l’abstrait. :contentReference[oaicite:0]{index=0}  
+  *Résumé / description :* Il s'agit du recueil *Luminous* (titre français “Radieux”), contenant la nouvelle “Luminous” (et d'autres) qui explore des concepts profonds de vérité mathématique, conscience, frontière entre le réel et l’abstrait.  
   *+* Idéal pour poursuivre ta plongée dans la SF “d’idée” après *Océanique*. Très riche conceptuellement, parfait pour réfléchir et se cultiver.  
   *−* Certaines nouvelles peuvent être très abstraites / cérébrales, moins “narration classique”.  
   *Quand :* à lire après avoir bien avancé ou fini *Océanique*, pour rester dans le thème Eganien.
@@ -35,9 +35,9 @@ lastmod: 2025-18-11
   *Quand :* quand tu veux passer à un roman long d’Egan.
 
 - **2312 – Kim Stanley Robinson**  
-  *Résumé / description :* Se déroule en l’an 2312 dans un système solaire colonisé. Le roman mêle politique, écologie, technologie quantique, architecture spatiale, biotechnologie. :contentReference[oaicite:1]{index=1}  
+  *Résumé / description :* Se déroule en l’an 2312 dans un système solaire colonisé. Le roman mêle politique, écologie, technologie quantique, architecture spatiale, biotechnologie.  
   *+* Très “hard / soft mix” : construire des habitats dans le Système solaire, terraformation, enjeux climatiques, économie future. Beaucoup d’ambition.  
-  *−* Le rythme peut être lent, et certains trouvent les personnages moins “attachants” ou le début dense. :contentReference[oaicite:2]{index=2}  
+  *−* Le rythme peut être lent, et certains trouvent les personnages moins “attachants” ou le début dense.  
   *Quand :* idéal pour un moment “lecture immersive + réflexion globale”.
 
 - **La mémoire de la lumière – Kim Stanley Robinson**  
@@ -53,9 +53,9 @@ lastmod: 2025-18-11
   *Quand :* bon pendant une phase lecture plus lente, de réflexion.
 
 - **Dans la toile du temps – Adrian Tchaikovsky**  
-  *Résumé / description :* Roman ambitieux : une partie de l’humanité coexiste avec une espèce d’araignées intelligentes, évolution, civilisation, coopération / conflit. :contentReference[oaicite:3]{index=3}  
+  *Résumé / description :* Roman ambitieux : une partie de l’humanité coexiste avec une espèce d’araignées intelligentes, évolution, civilisation, coopération / conflit.  
   *+* Très original, conceptuel, “épique mais tech / biologie”, très adapté à ton goût SF.  
-  *−* Certains lecteurs trouvent que ça traîne, ou que le style se perd dans des détails selon la Fnac. :contentReference[oaicite:4]{index=4}  
+  *−* Certains lecteurs trouvent que ça traîne, ou que le style se perd dans des détails selon la Fnac.  
   *Quand :* quand tu veux une lecture ambitieuse, portée sur l’évolution des civilisations.
 
 - **Révolte sur la Lune – Robert Heinlein**  
