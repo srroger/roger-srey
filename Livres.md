@@ -195,6 +195,18 @@ lastmod: 2025-18-11
   - La dynamique des groupes restreints - Anzieu & Martin
 - ❌ **Abandonné**
   - Le monde comme volonté & représentation - Schopenhauer
+  
+  
+### Infomatique
+- ⭐ **Lu**
+  - C++ Software Design, Design principles and patterns for high-quality software - Klaus Iglberger - O'reilly
+- 📑 **Feuilleté**
+  - Effective Modern C++, 42 specific ways to improve your use of C++11 and C++14 - Scott Meyers - O'reilly
+- 📖 **Non lu**
+  - C++20 For lazy programmers - Briggs
+  - Linux Administration 1-4 - Jean-Francois Bouchany
+  - Programmer en Java - C. Dellanoy
+
 
 ### 🏺 Histoire
 - ⭐ **Lu**
