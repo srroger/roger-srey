@@ -177,6 +177,7 @@ lastmod: 2025-18-11
 - ⭐ **Lu**
   - Le houblonomicon - Jivay
   - Jouissance Club - June Pla
+  - La semaine de 4 heures - Tom Ferris
 - 📖 **Non lu**
   - Le fabuleux pouvoir de votre cerveau - Chopra & Tanzi
   - Histoire de Béziers - Privat
@@ -186,6 +187,7 @@ lastmod: 2025-18-11
   - Psychologie sociale, communication et langage - Castel, Salès-Wuillemin, Lacassagne
   - Dialectique du moi & inconscient - C.G. Jung
   - Métamorphose de l'âme & symboles - C.G. Jung
+  - Le grand roman des maths, de la préhistoire à nos jours - Mickaël à nos jours
 - 📑 **Feuilleté**
   - Prendre la parole en public pour les nuls
   - Savoir répondre du tac au tac - Cyril Gely
@@ -197,15 +199,17 @@ lastmod: 2025-18-11
   - Le monde comme volonté & représentation - Schopenhauer
   
   
-### Infomatique
+### Informatique
 - ⭐ **Lu**
   - C++ Software Design, Design principles and patterns for high-quality software - Klaus Iglberger - O'reilly
 - 📑 **Feuilleté**
   - Effective Modern C++, 42 specific ways to improve your use of C++11 and C++14 - Scott Meyers - O'reilly
+  - Reprenez le contrôle à l'aide de Linux - Site du zéro - Mathieu Nebra
 - 📖 **Non lu**
   - C++20 For lazy programmers - Briggs
   - Linux Administration 1-4 - Jean-Francois Bouchany
   - Programmer en Java - C. Dellanoy
+  - Tout sur les Réseaux et Internet (2010) - Comment-ca marche.net - Jean-FrancoisPillou, Fabrice Lemainque
 
 
 ### 🏺 Histoire
@@ -251,14 +255,12 @@ lastmod: 2025-18-11
   - La cité nymphale, Chromozone 2 - Stéphane Beauverger
   - American Psycho - Bret Easton Ellis
   - Fables - Jean de La Fontaine
-  - Le crâne parfait de Lucien Bel - Jean-Philippe Depotte
   - 1Q84 Livre 1-3 - Haruki Murakami
   - Rebelle - Caragh M. O'Brien
   - De bon présage - Gaiman & Pratchett
   - Pierre Bottero : Les âmes croisées, La forêt des captifs, D'un monde à l'autre, L'œil d'Otolep, L'île du destin, Les frontières de glace, Ellana l'envol, Ellana, La huitième porte (non lu)
   - Dans la dèche à Paris & Londres - George Orwell
   - Les enfants de l'atome - Joyce Thompson
-  - Sorceleur - Andrzej Sapkowski
   - Le pistolero - Stephen King
   - Cyrano de Bergerac - Edmond Rostand
   - Ce que le jour doit à la nuit - Yasmina Khadra
@@ -267,6 +269,9 @@ lastmod: 2025-18-11
   - Les fleurs du mal - Baudelaire
   - La course aux moutons sauvages - Haruki Murakami
   - Le monde perdu - Sir Arthur Conan Doyle
+- ❌ **Abandonné**
+  - Sorceleur - Andrzej Sapkowski
+  - Le crâne parfait de Lucien Bel - Jean-Philippe Depotte
   
 ---
 
