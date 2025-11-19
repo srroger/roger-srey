@@ -205,6 +205,7 @@ lastmod: 2025-18-11
 - 📑 **Feuilleté**
   - Effective Modern C++, 42 specific ways to improve your use of C++11 and C++14 - Scott Meyers - O'reilly
   - Reprenez le contrôle à l'aide de Linux - Site du zéro - Mathieu Nebra
+  - Introduction au traitement mathématique des images - méthodes déterministes - Maïtine Bergounioux
 - 📖 **Non lu**
   - C++20 For lazy programmers - Briggs
   - Linux Administration 1-4 - Jean-Francois Bouchany
