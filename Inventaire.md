@@ -138,6 +138,7 @@ lastmod: 2025-03-11
   - Dowina acoustique
   - Guitare d’étude basique
 - **Batterie acoustique**
+- **Piano** — Yamaha P-45 (20-11-2025) 329€ Garantie 2ans
 - **Piano** — Yamaha PSR-520
 - **Amplis**
   - Blackstar à lampes
