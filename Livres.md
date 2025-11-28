@@ -13,7 +13,6 @@ lastmod: 2025-18-11
 
 ## 📚 En cours
 - Océanique - Greg Egan
-- Des fleurs pour Algernon - Daniel Keyes
 - La vie est plus belle en musique - Claire-Marie Le Guay
 
 ## 🔖 Prochaines lectures
@@ -87,8 +86,8 @@ lastmod: 2025-18-11
 ### 🪐 Science-Fiction
 - 🌱 **En cours**
   - Océanique - Greg Egan
-  - Des fleurs pour Algernon - Daniel Keyes
 - ⭐ **Lu**
+  - Des fleurs pour Algernon - Daniel Keyes
   - Les meurtres de Molly Southbourne - Tade Thompson (vraiment chouette)
   - Hypérion 1 & 2 - Dan Simmons
   - La trilogie Martienne - Kim Stanley Robinson (lu moitié)
