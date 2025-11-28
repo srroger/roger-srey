@@ -14,6 +14,7 @@ lastmod: 2025-18-11
 ## 📚 En cours
 - Océanique - Greg Egan
 - La vie est plus belle en musique - Claire-Marie Le Guay
+- L'homme à la découverte de son âme - C. G. Jung
 
 ## 🔖 Prochaines lectures
 - La main gauche de la nuit - Ursula K. LeGuin (non lu)
@@ -173,19 +174,21 @@ lastmod: 2025-18-11
   - L'harmonica pour les nuls (lu à moitié)
 
 ### 🧠 Coaching / Educatif
+- 🌱 **En cours**
+  - L'homme à la découverte de son âme - C. G. Jung
 - ⭐ **Lu**
   - Le houblonomicon - Jivay
   - Jouissance Club - June Pla
   - La semaine de 4 heures - Tom Ferris
 - 📖 **Non lu**
+  - Dialectique du moi & inconscient - C.G. Jung
+  - Métamorphose de l'âme & symboles - C.G. Jung
   - Le fabuleux pouvoir de votre cerveau - Chopra & Tanzi
   - Histoire de Béziers - Privat
   - Le guide de l'astronome débutant - Topalovic & Kerss
   - Soleil noir - Julia Kristeva
   - La dynamique des groupes - Roger Muccieli
   - Psychologie sociale, communication et langage - Castel, Salès-Wuillemin, Lacassagne
-  - Dialectique du moi & inconscient - C.G. Jung
-  - Métamorphose de l'âme & symboles - C.G. Jung
   - Le grand roman des maths, de la préhistoire à nos jours - Mickaël à nos jours
 - 📑 **Feuilleté**
   - Prendre la parole en public pour les nuls
