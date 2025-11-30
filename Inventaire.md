@@ -39,7 +39,7 @@ lastmod: 2025-30-11
 - **Guitares**
   - **Fender American Deluxe Stratocaster (USA, 2006)** — corps aulne, manche érable, touche palissandre ou érable, 3 micros Noiseless SCN, tremolo 2-point, locking tuners, manche modern “C”, diapason 25.5”
     - **Numéro de série** : `DZ6105089`
-    - **Série / Modèle** : American Deluxe Stratocaster (USA) :contentReference
+    - **Série / Modèle** : American Deluxe Stratocaster (USA)
     - **Année de fabrication estimée** : 2006 (préfixe “DZ6” = American Deluxe, 2006)
     - **Pays de fabrication** : États-Unis (Made in USA)
     - **Corps** : Aulne (*Select Alder*)
@@ -113,21 +113,21 @@ lastmod: 2025-30-11
                         R-fier Stack (Mesa Boogie Rectifier)
                         Mic (pré-amplification pour micro)
                         6 effets : chorus, flanger, phaser, tremolo, delay, reverb
-- 09/09/2023 (EnergySon) - **Enceintes de monitoring** — 2 Monitor Studio YAMAHA HS7 - 100W (65+35) (219ee x 2 = 438e) 
+- 09/09/2023 (EnergySon) - **Enceintes de monitoring** — 2 Monitor Studio YAMAHA HS7 - 100W (65+35) (219e x 2 = 438e) 
 - **Batterie acoustique**
 - **Mélodica**
 - **Hulusi** E, F
 - **Carte son** — Behringer U-Phoria UMC404HD
 
 ### Harmonicas diatoniques
-- Arkia : C, G, D, E, B, Eb, Ab, Bb  
-- Seydel : A  
-- Marine Band : F#, Db  
-- Hohner JJ Milteau : F  
+- Arkia : C, G, D, E, B, Eb, Ab, Bb
+- Seydel : A
+- Marine Band : F#, Db
+- Hohner JJ Milteau : F
 
 ### Autres harmonicas
 - **Basse**  
-- **Chromatique (diatonique)** — Trochilus C  
+- **Chromatique (diatonique)** — Trochilus C
 - **Double** : Marine Band Crossover (A), Lee Oskar (E), Marine Band (autres modèles)
 
 ### Pièces & entretien
