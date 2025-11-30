@@ -120,15 +120,20 @@ lastmod: 2025-30-11
 - **Carte son** — Behringer U-Phoria UMC404HD
 
 ### Harmonicas diatoniques
+#### Malette
 - Arkia : C, G, D, E, B, Eb, Ab, Bb
 - Seydel : A
 - Marine Band : F#, Db
 - Hohner JJ Milteau : F
 
+#### Hors malette
+- Marine Band Crossover: A
+- Lee Oskar E
+
 ### Autres harmonicas
 - **Basse**  
 - **Chromatique (diatonique)** — Trochilus C
-- **Double** : Marine Band Crossover (A), Lee Oskar (E), Marine Band (autres modèles)
+- **Double** : Marine Band (autres modèles)
 
 ### Pièces & entretien
 - Plaque de lamelles Arkia D (1 OK)  
@@ -141,7 +146,6 @@ lastmod: 2025-30-11
 ---
 
 ## Autres
-
 - **Tenga spinner 03 Shell** *(Nov-2025)*
 - **1 lotion regular** *(Nov-2025)*
 - **5 paracordes 15mx3mm** - Action, 125kg max *(Oct-2025)*
