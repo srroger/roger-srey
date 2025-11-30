@@ -3,7 +3,7 @@ title: Roger Srey
 description: Mon matériel personnel
 author: Roger Srey
 date: 2025-02-11
-lastmod: 2025-03-11
+lastmod: 2025-30-11
 ---
 [< Home](./)
 
@@ -31,6 +31,123 @@ lastmod: 2025-03-11
   
 ### Vélo MBK
 - Roues **700x35C** — valve fine (Presta)
+
+---
+
+## Musique
+### Instruments
+- **Guitares**
+  - **Fender American Deluxe Stratocaster (USA, 2006)** — corps aulne, manche érable, touche palissandre ou érable, 3 micros Noiseless SCN, tremolo 2-point, locking tuners, manche modern “C”, diapason 25.5”
+    - **Numéro de série** : `DZ6105089`
+    - **Série / Modèle** : American Deluxe Stratocaster (USA) :contentReference
+    - **Année de fabrication estimée** : 2006 (préfixe “DZ6” = American Deluxe, 2006)
+    - **Pays de fabrication** : États-Unis (Made in USA)
+    - **Corps** : Aulne (*Select Alder*)
+    - **Finition du corps** : Urethane (vernis brillant)
+    - **Manche** : Érable, profil moderne “C”
+    - **Touche** : Palissandre *ou* érable selon version (rosewood or maple fingerboard possible)
+    - **Rayon de la touche** : 9.5" (≈ 241 mm) — radius standard pour confort et polyvalence
+    - **Diapason** : 25.5″ (≈ 648 mm)
+    - **Largeur au sillet (nut width)** : environ 1.6875" (≈ 43 mm)
+    - **Nombre de frettes** : 22 frettes Médium-Jumbo
+    - **Mécaniques** : Verrouillables “Deluxe Staggered Cast/Sealed Locking Tuning Machines” (accordage stable, pratique pour vibrato)
+    - **Chevalet / Vibrato** : Tremolo 2-point synchronisé, avec bras “pop-in” (vibrato moderne, fluide)
+    - **Micros** : 3 × Samarium Cobalt Noiseless™ Strat single-coil pickups — micros “sans souffle” adaptés pour scène ou enregistrement.
+    - **Switch & configuration électronique** :
+      - Sélecteur 5 positions (classique Strat)
+      - Interrupteur **S-1** (push/push sur le bouton de volume) : permet des combinaisons supplémentaires, tonalités plus variées — un vrai plus pour la polyvalence.
+    - **Accastillage** : Chrome (pontets, visserie, etc.) 
+    - https://serialnumberlookup.fender.com/product/0101200723
+    
+  - Dowina electro-acoustique (400e)
+  - Guitare acoustique no-name bas de gamme
+- **Micro dynamique** — Shure SM58 (100e) LCE Microphone dynamique pour la voix
+                                          Directivité: Cardioïde
+                                          Réponse en fréquence: 50 - 15.000 Hz
+                                          Sensibilité: -56 dBV/Pa (1,85 mV)
+                                          Dimensions: 23 x 162 x 51 mm
+                                          Poids: 298 g
+- **Micro studio (statique)** — Lewitt LCT 240 PRO (100e) Microphone à condensateur
+                                                          Directivité: Cardioïde
+                                                          Construction robuste en métal
+                                                          Capsule plaquée or
+                                                          Taille de la capsule: 17 mm
+                                                          Plage dynamique: 123 dB-A
+                                                          Sensibilité: 16,7 mV / Pa (-35,5 dBV)
+                                                          Dimensions: 138 x 52 x 36 mm
+                                                          Poids: 310 g
+                                                          Couleur: Noir
+- **Piano** — Yamaha P-45 (20-11-2025) 329€ Garantie 2ans
+- **Piano** — Yamaha PSR-520 (boncoin, donné a Mika)
+- **Amplis**
+  - Blackstar HT5  5 Watts
+                    Préampli : à lampe (1 x ECC83)
+                    Ampli : à lampe (1 x 12BH7)
+                    Puissance : 5 Watts
+                    Baffle(s) : 1 x 10" Celestion
+                    Canaux : 2 canaux
+                    Dimensions : 442 x 430 x 235 mm
+                    Poids : 11,5 kg
+                    Série : HT-5
+                    
+  - Orange Crush Mini  3 Watts
+                       Puissance: 3 Watt RMS
+                       1 haut-parleur 4"
+                       Sortie pour baffle externe
+                       Entrée Aux
+                       Fonctionne sur batterie ou avec un bloc d'alimentation optionnel non-fourni
+                       Dimensions: 149 x 139 x 80 mm
+                       Poids: 0,8 kg
+                       
+  - Roland MICRO CUBE   Puissance : 2 W
+                        Haut-parleur : 5 pouces (12 cm)
+                        Dimensions (l*P*H) : 24,4 cm * 16,6 cm * 22,6 cm
+                        Poids : 3,3 kg
+                        Alimentation : 6 piles AA ou prise secteur
+                        7 modélisations d'amplis :
+                        Acoustic (guitare acoustique)
+                        JC Clean (Roland Jazz Chorus-120)
+                        Black Panel (Fender Twin Reverb)
+                        Brit Combo (Vox AC30)
+                        Classic Stack (Marshall JMP)
+                        R-fier Stack (Mesa Boogie Rectifier)
+                        Mic (pré-amplification pour micro)
+                        6 effets : chorus, flanger, phaser, tremolo, delay, reverb
+- 09/09/2023 (EnergySon) - **Enceintes de monitoring** — 2 Monitor Studio YAMAHA HS7 - 100W (65+35) (219ee x 2 = 438e) 
+- **Batterie acoustique**
+- **Mélodica**
+- **Hulusi** E, F
+- **Carte son** — Behringer U-Phoria UMC404HD
+
+### Harmonicas diatoniques
+- Arkia : C, G, D, E, B, Eb, Ab, Bb  
+- Seydel : A  
+- Marine Band : F#, Db  
+- Hohner JJ Milteau : F  
+
+### Autres harmonicas
+- **Basse**  
+- **Chromatique (diatonique)** — Trochilus C  
+- **Double** : Marine Band Crossover (A), Lee Oskar (E), Marine Band (autres modèles)
+
+### Pièces & entretien
+- Plaque de lamelles Arkia D (1 OK)  
+- Autres pièces en réserve...
+
+### Divers musiques
+- 25-11-25 - **Pied piano** amazon (20e), BoomToneDJ KS1 Support X réglable 65 à 95cm. Métal, 2,14kg, 95x50x95cm(L x l x H), Charge maxi 15kg.
+- 12-11-21 - **Pied micro inclinable de table JB50** (22e)
+
+---
+
+## Autres
+
+- **Tenga spinner 03 Shell** *(Nov-2025)*
+- **1 lotion regular** *(Nov-2025)*
+- **5 paracordes 15mx3mm** - Action, 125kg max *(Oct-2025)*
+
+---
+
 
 ---
 
@@ -127,51 +244,6 @@ lastmod: 2025-03-11
 **+** Bon équilibre tranchant/dureté, design agréable.  
 **–** Acier propriétaire, qualité variable.  
 **Usage :** EDC polyvalent.
-
----
-
-## Musique
-
-### Instruments
-- **Guitares**
-  - Stratocaster
-  - Dowina acoustique
-  - Guitare d’étude basique
-- **Batterie acoustique**
-- **Piano** — Yamaha P-45 (20-11-2025) 329€ Garantie 2ans
-- **Piano** — Yamaha PSR-520
-- **Amplis**
-  - Blackstar à lampes
-  - Orange
-  - Roland
-- **Enceintes de monitoring** — Yamaha HS7
-- **Carte son** — Behringer U-Phoria UMC404HD
-
----
-
-### Harmonicas diatoniques
-- Arkia : C, G, D, E, B, Eb, Ab, Bb  
-- Seydel : A  
-- Marine Band : F#, Db  
-- Hohner JJ Milteau : F  
-
-### Autres harmonicas
-- **Basse**  
-- **Chromatique (diatonique)** — Trochilus C  
-- **Double** : Marine Band Crossover (A), Lee Oskar (E), Marine Band (autres modèles)
-
-### Pièces & entretien
-- Plaque de lamelles Arkia D (1 OK)  
-- Autres pièces en réserve...
-
----
-
-## Autres
-
-- **Tenga spinner 03 Shell** *(Nov-2025)*
-- **1 lotion regular** *(Nov-2025)*
-- **5 paracordes 15mx3mm** - Action, 125kg max *(Oct-2025)*
-
 
 ---
 

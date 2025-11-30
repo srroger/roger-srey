@@ -3,19 +3,21 @@ title: Roger Srey
 description: Maison
 author: Roger Srey
 date: 03-11-25
-lastmod: 03-11-25
+lastmod: 30-11-25
 ---
 [< Home](./)
 
 # Mobilier
 - 03-11-25 - Canape/lit clic-clac, 115x190cm
 - 03-11-25 - Bureau, 140lx80px68h-71h
-- 03-11-25 - Table pliable (avec piano) 118lx72px68h
+- 03-11-25 - Table pliable 118lx72px68h
 
 # Vetements
 - 03-11-25 - 2 ceintures cuirs, marron et anthracite ( GAROT Jeans Annecy, cuir de taureau plein fleur francais, tanage végétale italie, sur mesure cuir )
-- 03-11-25 - 1 jeans dickies 89e, 100% coton, 32/32 thomasville denim pant classic blue
 - 03-11-25 - 1 bretelles, PIERROT Bretelles Homme Fines Made in France - Elastique Solide & 4 Pinces Ultra Fortes en X - Bretelles 2,5cm de Large Taille Ajustable Garantie à Vie
+- 03-11-25 - 1 jeans dickies (89e), 100% coton, 32/32 thomasville denim pant classic blue
+- 29-11-25 - 1 pull coll roulé 100% cachemire (Uniqlo) marron foncé (100e), S. (Attention, surement cachemire mongolie, exploitation...)
+- 29-11-25 - 1 paire de gants doigt ouvert, laine d'agneau (15e).
 
 # Bricolage
 - 03-11-25 - Vis ecrou, M1, M1.2, M1.4, M1.6 (pour lunette)
