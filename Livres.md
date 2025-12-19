@@ -88,7 +88,7 @@ lastmod: 2025-18-11
 - 🌱 **En cours**
   - Océanique - Greg Egan
 - ⭐ **Lu**
-  - Des fleurs pour Algernon - Daniel Keyes
+  - Des fleurs pour Algernon - Daniel Keyes (prété a mathou)
   - Les meurtres de Molly Southbourne - Tade Thompson (vraiment chouette)
   - Hypérion 1 & 2 - Dan Simmons
   - La trilogie Martienne - Kim Stanley Robinson (lu moitié)
@@ -145,7 +145,7 @@ lastmod: 2025-18-11
   - Les jours étranges de Nostradamus - Jean-Philippe Depotte
   - La proie - Michael Crichton
   - Lavinia - Ursula K. LeGuin
-  - Terremer - Ursula K. LeGuin (lu) : Du Ghibli
+  - Terremer - Ursula K. LeGuin (lu) : Du Ghibli (Preté à Lou)
 - 📖 **Non lu**
   - Le livre jaune - Michael Roch
   - Les lames du cardinal - Pierre Pevel

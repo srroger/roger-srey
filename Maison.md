@@ -19,6 +19,7 @@ lastmod: 30-11-25
 - 29-11-25 - 1 pull coll roulé 100% cachemire (Uniqlo) marron foncé (100e), S. (Attention, surement cachemire mongolie, exploitation...)
 - 29-11-25 - 1 paire de gants doigt ouvert, laine d'agneau (15e).
 - 30-11-25 - 1 t-shirt avec lacage en chanvre (rêve de l'abo)
+- 19-12-25 - 1 pantalon chino Asphalte taille W32 FR42, moutarde beige (Vinted 13e)
 
 # Bricolage
 - 03-11-25 - Vis ecrou, M1, M1.2, M1.4, M1.6 (pour lunette)
