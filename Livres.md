@@ -156,6 +156,7 @@ lastmod: 2025-18-11
   - Mage de guerre - Stephen Aryan
   - Kleer - L. L. Kloetzer
   - Le travail du furet - Jean-Pierre Andrevom
+  - Les Diables - Joe Abercrombie
 
 ### 🎵 Musique
 - 🌱 **En cours**
@@ -172,6 +173,13 @@ lastmod: 2025-18-11
 - 📖 **Non lu**
   - Jazz, histoire & musiciens - André Francis
   - L'harmonica pour les nuls (lu à moitié)
+  
+### Artbook / Beaux livres
+- 🌱 **En cours**
+  - L'art de Clair Obscur, Expedition 33 - Marine Macq
+- ⭐ **Lu**
+  - Tolkien, voyage en terre du milieu - Vincent Ferré & Frédéric Manfrin
+- 📖 **Non lu**
 
 ### 🧠 Coaching / Educatif
 - 🌱 **En cours**
@@ -234,6 +242,7 @@ lastmod: 2025-18-11
 - 📖 **Non lu**
   - L'homme qui marche - Jiro Taniguchi
   - La horde du contrevent, BD - Eric Henniot
+  - Altamont - Erik Hanna & Charle Adlard
 - ❌ **Abandonné**
   - Dans la combi de Thomas Pesquet - Marion Montaigne
   - Notes de trail, première foulée - Des Bosses & Bulles
@@ -246,7 +255,6 @@ lastmod: 2025-18-11
   - L'homme qui s'envola - Antoine Bello
   - Gilgamesh, roi d'Ourouk - Robert Silverberg
   - Le livre des crânes - Robert Silverberg
-  - Tolkien, voyage en terre du milieu
 - 📖 **Non lu**
   - Esclaves chrétiens, maîtres musulmans - Robert C. Davis
   - Sociologie et anthropologie - Marcel Mauss
