@@ -1,5 +1,6 @@
 # Roger Srey
 ## Ingénieur développeur & harmoniciste amateur
+"La science, c’est juste comprendre comment la nature fait déjà les choses."
 "Sur Terre, nous naissons tous égaux
 mais certains sont plus égaux que d'autres."
 
