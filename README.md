@@ -1,5 +1,7 @@
 # Roger Srey
 ## Ingénieur développeur & harmoniciste amateur
+"Les notes musiques existent car à l'oreille on est facilement capable d'entendre un loup ou un multiple."
+
 "La science, c’est juste comprendre comment la nature fait déjà les choses."
 
 "Sur Terre, nous naissons tous égaux
