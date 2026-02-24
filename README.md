@@ -4,6 +4,9 @@
 
 "La science, c’est juste comprendre comment la nature fait déjà les choses."
 
+"Ne pas décider consomme de l’énergie.
+Re-décider en consomme encore plus."
+
 "Sur Terre, nous naissons tous égaux
 mais certains sont plus égaux que d'autres."
 
