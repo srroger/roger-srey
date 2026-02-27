@@ -20,7 +20,7 @@ lastmod: 30-11-25
 - 29-11-25 - 1 paire de gants doigt ouvert, laine d'agneau (15e).
 - 30-11-25 - 1 t-shirt avec lacage en chanvre (rêve de l'abo)
 - 19-12-25 - 1 pantalon chino Asphalte taille W32 FR42, moutarde beige (Vinted 13e)
-- 27-02-26 - RED WING SHOES 8146 - Boots Red Wing Shoes 8146 Roughneck Moc Toe Briar Oil Slick.
+- 27-02-26 - RED WING SHOES 8146 - Boots Red Wing Shoes 8146 Roughneck Moc Toe Briar Oil Slick. (369e 10% -> 332e)
                 Cuir Briar Oil Slick
                 Vibram Lug Outsole
                 Width D (medium)
