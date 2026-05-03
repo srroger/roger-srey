@@ -156,17 +156,18 @@ lastmod: 2025-30-11
 - Lee Oskar E
 
 ### Autres harmonicas
-- **Basse**  
+- **Basse**
 - **Chromatique (diatonique)** — Trochilus C
 - **Double** : Marine Band (autres modèles)
 
 ### Pièces & entretien
-- Plaque de lamelles Arkia D (1 OK)  
+- Plaque de lamelles Arkia D (1 OK)
 - Autres pièces en réserve...
 
 ### Divers musiques
-- 25-11-25 - **Pied piano** amazon (20e), BoomToneDJ KS1 Support X réglable 65 à 95cm. Métal, 2,14kg, 95x50x95cm(L x l x H), Charge maxi 15kg.
-- 12-11-21 - **Pied micro inclinable de table JB50** (22e)
+- 03-05-26 - **Support d'enceintes à Pince pour Bureau** amazon (35€), Suptek, Réglables en Hauteur, Inclinables et Pivotants, Plateaux 24,4 x 22,4 cm, Supports Universels pour Enceintes PC et Bibliothèque, SDM001B
+- 25-11-25 - **Pied piano** amazon (20€), BoomToneDJ KS1 Support X réglable 65 à 95cm. Métal, 2,14kg, 95x50x95cm(L x l x H), Charge maxi 15kg.
+- 12-11-21 - **Pied micro inclinable de table JB50** (22€)
 
 ---
 
