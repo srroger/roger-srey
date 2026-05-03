@@ -80,6 +80,31 @@ lastmod: 2025-30-11
 - **Piano** — Yamaha P-45 (20-11-2025) 329€ Garantie 2ans
 - **Piano** — Yamaha PSR-520 (boncoin, donné a Mika)
 - **Amplis**
+  - Marshall MG250DFX — ampli guitare transistor 100W (stéréo 2×50W), 2x12”
+                  Type : Ampli combo à transistors (solid-state)
+                  Puissance : 100 Watts (2 × 50W stéréo)
+                  Haut-parleurs : 2 × 12” (configuration stéréo)
+                  Canaux : Clean / Overdrive (OD1 / OD2)
+                  Égalisation : Bass / Middle / Treble indépendants
+                  Effets intégrés (DFX) :
+                    - Reverb
+                    - Delay
+                    - Chorus
+                    - Flanger
+                    - Phaser
+                    - Multi-effets numériques
+                  Entrées / sorties :
+                    - Entrée guitare (jack 6,35 mm)
+                    - Entrée CD / Aux (RCA)
+                    - Sortie casque
+                    - Boucle d’effets
+                  Caractéristiques :
+                    - Technologie à transistors (pas de lampes)
+                    - Sonorité typée Marshall moderne
+                    - Overdrive puissant et agressif
+                    - Clean correct mais moins riche que les amplis à lampes
+                    - Effets intégrés pratiques pour le jeu sans pédales
+                  
   - Blackstar HT5  5 Watts
                     Préampli : à lampe (1 x ECC83)
                     Ampli : à lampe (1 x 12BH7)
