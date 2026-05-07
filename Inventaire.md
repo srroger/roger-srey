@@ -142,7 +142,7 @@ lastmod: 2025-30-11
 - **Batterie acoustique**
 - **Mélodica**
 - **Hulusi** E, F
-- **Carte son** — Behringer U-Phoria UMC404HD
+- 07/05/2021 (Thomann) - **Carte son** — Behringer U-Phoria UMC404HD
 
 ### Harmonicas diatoniques
 #### Malette
