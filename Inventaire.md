@@ -175,6 +175,7 @@ lastmod: 2025-30-11
 - **Tenga spinner 03 Shell** *(Nov-2025)*
 - **1 lotion regular** *(Nov-2025)*
 - **5 paracordes 15mx3mm** - Action, 125kg max *(Oct-2025)*
+- **MTG - Tapis de jeu - Yoshimaru** - Crows Arena, 23(7/8)"x13(1/2)", 60cmx34cm *(3-Mai-2026 20€)*
 
 ---
 
