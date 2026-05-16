@@ -27,6 +27,7 @@ lastmod: 30-11-25
                 Construction Goodyear Welt
                 Shoe Care - Foam leather cleaner, All natural conditioner
                 Made in USA
+- 16-05-26 - 1 pantalon, Dickies 874 Chino Pants Trousers Beige Elegant Original Fit 2014 - Size W32 L32 | FR 42 Très bon état (23,50€)
 
 # Bricolage
 - 03-11-25 - Vis ecrou, M1, M1.2, M1.4, M1.6 (pour lunette)

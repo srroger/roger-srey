@@ -15,10 +15,10 @@ lastmod: 2025-18-11
 - Océanique - Greg Egan
 - La vie est plus belle en musique - Claire-Marie Le Guay
 - L'homme à la découverte de son âme - C. G. Jung
+- Rendez-vous avec Rama - Arthur C. Clarke
 
 ## 🔖 Prochaines lectures
 - La main gauche de la nuit - Ursula K. LeGuin (non lu)
-- Rendez-vous avec Rama - Arthur C. Clarke (non lu)
 
 ## 🔜 Prochains à lire (parmi ta bibliothèque - ChatGPT)
 
@@ -87,6 +87,7 @@ lastmod: 2025-18-11
 ### 🪐 Science-Fiction
 - 🌱 **En cours**
   - Océanique - Greg Egan
+  - Rendez-vous avec Rama - Arthur C. Clarke
 - ⭐ **Lu**
   - Des fleurs pour Algernon - Daniel Keyes (prété a mathou)
   - Les meurtres de Molly Southbourne - Tade Thompson (vraiment chouette)
@@ -101,6 +102,8 @@ lastmod: 2025-18-11
   - La ménagerie de papier - Ken Liu
   - Axiomatique - Greg Egan
 - 📖 **Non lu**
+  - Jardins de poussière - Ken Liu
+  - Les armées de ceux que j'aime - Ken Liu
   - Toutes les saveurs - Ken Liu
   - Le sultan des nuages - Geoffrey A. Landis
   - 24 vues du mont Fuji - Roger Zelazny
@@ -112,7 +115,6 @@ lastmod: 2025-18-11
   - Le rêve de Galilée - Kim Stanley Robinson
   - Danses aériennes - Nancy Kress
   - La trilogie de Wielstadt - Pierre Pevel
-  - Rendez-vous avec Rama - Arthur C. Clarke
   - La main gauche de la nuit - Ursula K. LeGuin
   - Aux douze vents du monde - Ursula K. LeGuin
   - Deus Irae - Philip K. Dick & Roger Zelazny
@@ -165,6 +167,7 @@ lastmod: 2025-18-11
   - Rhythms of the Breath vol.1 - Howard Levy
   - La partition intérieure - Jacques Siron
   - La vie est plus belle en musique - Claire-Marie Le Guay
+  - Improviser au piano - Les nuls - Gwendal Giguelay
 - ⭐ **Lu**
   - Théorie de la musique - Alfons Danhauser
   - Le cycle des quintes - Philip Jackson
