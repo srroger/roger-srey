@@ -182,6 +182,11 @@ lastmod: 2025-30-11
 
 ---
 
+## Pierre a aiguiser et autres
+- Naniwa Multi Stone grain 1000/3000 25e 19/03/2021
+- Skerper Flattening Stone SA004 pierre à égaliser grain 24/220 25 10/06/2026
+
+
 ## Couteaux pliants
 
 ---
