@@ -28,6 +28,8 @@ Ce site n'est utile que pour moi-même.
 
 [Ma config perso](./MaConfigPC)
 
+## Les notes des copains
+[Noeuds de Romain](https://www.monin.vip/codex/outdoor-camp-knots/)
 
 ---
 ## À propos
