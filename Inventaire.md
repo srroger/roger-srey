@@ -23,6 +23,11 @@ lastmod: 2025-30-11
 - **Chaussons d’escalade** — Katana *(Fév-2025)*
 - **Slackline**
 
+## Bivouac
+- **Paracorde** - 20m, 4mm, 550lbs(250kg) Frendo france depuis 1946 - corde Ultra-résistante - polyester, 185g (07-2026)
+- **Hamac** - Azimut outdoor Hamac rando Nylon, 350g, 250kg, (20e) (07-2026) Compact et léger grâce à son tissu nylon 210T
+Matière : Nylon 210T, Poids : 350 g, 2 cordes de 3 mètres chacune, Housse de rangement cousue, Hamac 1 personne, Longueur : 275 cm, Largeur : 140cm (environ)
+
 ---
 
 ## Vélo
