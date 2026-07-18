@@ -27,6 +27,8 @@ lastmod: 2025-30-11
 - **Paracorde** : 20m, 4mm, 550lbs(250kg) Frendo france depuis 1946 - corde Ultra-résistante - polyester, 185g (07-2026)
 - **Hamac** : Azimut outdoor Hamac rando Nylon, 350g, 250kg, (20e) Compact et léger grâce à son tissu nylon 210T
 Matière : Nylon 210T, Poids : 350 g, 2 cordes de 3 mètres chacune, Housse de rangement cousue, Hamac 1 personne, Longueur : 275 cm, Largeur : 140cm (environ) (07-2026)
+- **Hamac avec moustiquaire** : NATUREFUN Hamac de Camping avec Moustiquaire | Capacité de Charge de 300kg, (290 x 140 cm) Nylon Parachute Respirant, séchage Rapide, (27e) Nylon 210T
+Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons + 1 corde 2.4m, 2 sangles suspension 2m, 2 piquets + 2 cordes haubanage 2.2m, Housse de rangement cousue, (07-2026)
 - **Cordelette** x2 : Cordelette d'escalade et d'alpinisme 4 mm x 7 m - rougem Décathlon Simond, (6,50e unité) ; Résistance statique (norme EN 564 : 2023) Force de rupture :  4,4 kN, Résistance noeud de plein poing : 6,3 kN, Résistance noeud de pêcheur double : 6,53 kN (07-2026)
 
 ---
