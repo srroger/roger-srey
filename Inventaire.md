@@ -31,6 +31,7 @@ Matière : Nylon 210T, Poids : 350 g, 2 cordes de 3 mètres chacune, Housse de r
 - **Hamac avec moustiquaire** : NATUREFUN Hamac de Camping avec Moustiquaire | Capacité de Charge de 300kg, (290 x 140 cm) Nylon Parachute Respirant, séchage Rapide, (27e) Nylon 210T
 Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons + 1 corde 2.4m, 2 sangles suspension 2m, 2 piquets + 2 cordes haubanage 2.2m, Housse de rangement cousue, (07-2026)
 - **Tarp** Tarp L (decathlon) Imperméable 8M² (285x285) Avec Mâts Et Protection UV UPF 30 Quechua - Kit complet : 1 bâche, 2 mâts 4 sections (200 cm), 6 sardines, 6 haubans, housse. Jusqu’à 8 m² de surface protégée selon configuration.
+- **Lampe de poche** : (Action) 5e: 800-400 lumen, autonomie 3.5h
 
 ---
 
