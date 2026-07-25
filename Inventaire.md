@@ -269,6 +269,20 @@ Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons
 **+** Lame rasoir, très facile à affûter.  
 **–** Oxydable, poignée peu ergonomique.  
 **Usage :** EDC minimaliste, collection.
+<img src="https://cdn.store-factory.com/www.cocktail7.com/content/product_11267976b.jpg" alt="Higonokami" width="300" height=auto>
+
+---
+
+### Couteau Higonokami Boker Mokuzai Carbone 6.4 cm
+- **Acier** : Carbone (55C env.)  
+- **Longueur lame** : 6 cm  
+- **Manche** : 8.5 cm  
+- **Poids** : 30 g  
+- **HRC** : 58–59 HRC ([JapanZen][6])  
+**Description :** Couteau traditionnel japonais, simple et très tranchant.  
+**+** Lame rasoir, très facile à affûter.  
+**–** Oxydable, poignée peu ergonomique.  
+**Usage :** EDC minimaliste, collection.
 <img src="/roger-srey/images/hikonogami.jpeg" alt="Higonokami" width="300" height=auto>
 
 ---
