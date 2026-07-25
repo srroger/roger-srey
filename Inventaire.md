@@ -195,7 +195,8 @@ Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons
 ## Pierre a aiguiser et autres
 - Naniwa Multi Stone grain 1000/3000 25e 19/03/2021
 - Skerper Flattening Stone SA004 pierre à égaliser grain 24/220 25 10/06/2026
-
+- Skerper pâte d'affilage, stropping compound rouge, fin 5,40€ 1,5 micron fine Ultra fine (5000+) 24/08/2021
+- Skerper pâte d'affilage, stropping compound noir, ultra fin 5,40 € 0,6 micron Grain ultrafine Ultra fine (5000+) 24/08/2021
 
 ## Couteaux pliants
 
