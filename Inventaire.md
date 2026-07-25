@@ -212,6 +212,7 @@ Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons
 **+** Tenue de coupe remarquable, esthétique damas.  
 **–** Sensible à la corrosion, réaffûtage délicat.  
 **Usage :** EDC élégant, coupe fine, petit usage culinaire.
+<img src="/images/mcusta.jpeg" alt="Mcusta" width="300" height=auto>
 
 ---
 
@@ -225,6 +226,7 @@ Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons
 **+** Bonne résistance à la corrosion, belle finition.  
 **–** Tranchant à raviver souvent.  
 **Usage :** EDC urbain ou de collection.
+<img src="/images/coqFrancais.jpeg" alt="Coq Français" width="300" height=auto>
 
 ---
 
@@ -239,6 +241,7 @@ Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons
 **+** Tranchant durable, bonne résistance à l’usure.  
 **–** Coupe fine moins aisée, un peu lourd.  
 **Usage :** EDC outdoor, travaux légers.
+<img src="https://www.coutellerie-tourangelle.com/images/imagecache/400x400/jpg/X503-BK-Critical-Strike-X503-VG10-G10-Noir-X503-BK.webp" alt="Critical Strike X503-BK" width="300" height=auto>
 
 ---
 
@@ -252,6 +255,7 @@ Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons
 **+** Facile à affûter, corrosion faible.  
 **–** Tenue de coupe modérée.  
 **Usage :** EDC urbain, coupe légère.
+<img src="/images/CEO.jpeg" alt="CRKT" width="300" height=auto>
 
 ---
 
@@ -265,6 +269,7 @@ Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons
 **+** Lame rasoir, très facile à affûter.  
 **–** Oxydable, poignée peu ergonomique.  
 **Usage :** EDC minimaliste, collection.
+<img src="/images/hikonogami.jpeg" alt="Higonokami" width="300" height=auto>
 
 ---
 
@@ -291,6 +296,7 @@ Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons
 **+** Bon équilibre tranchant/dureté, design agréable.  
 **–** Acier propriétaire, qualité variable.  
 **Usage :** EDC polyvalent.
+<img src="/images/CJRB.jpeg" alt="CJRB" width="300" height=auto>
 
 ---
 
