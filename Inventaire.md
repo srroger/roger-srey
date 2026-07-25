@@ -259,30 +259,30 @@ Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons
 
 ---
 
-### Higonokami Zenkou (Nagao Kanekoma)
-- **Acier** : Carbone (55C env.)  
-- **Longueur lame** : 6 cm  
-- **Manche** : 8.5 cm  
-- **Poids** : 30 g  
-- **HRC** : 58–59 HRC ([JapanZen][6])  
-**Description :** Couteau traditionnel japonais, simple et très tranchant.  
-**+** Lame rasoir, très facile à affûter.  
-**–** Oxydable, poignée peu ergonomique.  
-**Usage :** EDC minimaliste, collection.
+### Higonokami Black — Nagao Kanekoma
+- **Acier** : SK Steel
+- **Longueur lame** : 8.5 cm
+- **Longueur manche** : 10 cm
+- **Poids** : 48 g
+- **HRC** : ~60 HRC (estimé)
+**Description :** Véritable Higonokami fabriqué au Japon par Nagao Kanekoma. Pliant traditionnel sans verrouillage utilisant le célèbre levier *chikiri*.
+**+** Tranchant très fin, excellente qualité de coupe, authenticité.
+**–** Acier carbone oxydable, pas de verrouillage, demande un peu d'entretien.
+**Usage :** EDC traditionnel, cuisine légère, collection.
 <img src="https://cdn.store-factory.com/www.cocktail7.com/content/product_11267976b.jpg" alt="Higonokami" width="300" height=auto>
 
 ---
 
-### Couteau Higonokami Boker Mokuzai Carbone 6.4 cm
-- **Acier** : Carbone (55C env.)  
-- **Longueur lame** : 6 cm  
-- **Manche** : 8.5 cm  
-- **Poids** : 30 g  
-- **HRC** : 58–59 HRC ([JapanZen][6])  
-**Description :** Couteau traditionnel japonais, simple et très tranchant.  
-**+** Lame rasoir, très facile à affûter.  
-**–** Oxydable, poignée peu ergonomique.  
-**Usage :** EDC minimaliste, collection.
+### Böker Mokuzai Higonokami
+- **Acier** : Carbone C75
+- **Longueur lame** : 6.4 cm
+- **Longueur manche** : 8.5 cm
+- **Poids** : 33 g
+- **HRC** : ~57–59 HRC
+**Description :** Interprétation moderne du Higonokami par Böker. Conserve le style japonais tout en proposant une finition plus soignée et un manche en bois.
+**+** Compact, élégant, bonne qualité de fabrication.
+**–** Acier carbone sensible à la corrosion, pas de verrouillage, lame plus courte.
+**Usage :** Petit EDC, collection, coupe occasionnelle.
 <img src="/roger-srey/images/hikonogami.jpeg" alt="Higonokami" width="300" height=auto>
 
 ---
