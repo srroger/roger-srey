@@ -12,6 +12,8 @@ Re-décider en consomme encore plus."
 "Sur Terre, nous naissons tous égaux
 mais certains sont plus égaux que d'autres."
 
+"L’Improvisation Me Détache Et Pars Loin" (Lydien – Ionien – Mixolydien – Dorien – Éolien – Phrygien – Locrien)
+
 ## Quelques harmos
 ![](/images/HarmoRayonX.jpeg)
 
