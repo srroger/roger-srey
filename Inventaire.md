@@ -12,26 +12,48 @@ lastmod: 2025-30-11
 ---
 
 ## Escalade
-- **Corde** — 80 m, 10 mm *(achetée Jan-2020)*
-- **Sac bandoulière pour corde** *(Jan-2020)*
-- **10 dégaines** *(Jan-2020)*
-- **3 mousquetons** *(Jan-2020)*
-- **Descendeur simple** *(Jan-2020)*
-- **Vache** *(Jan-2020)*
+- **Corde** — 80 m, 10 mm *(01-20)*
+- **Sac bandoulière pour corde** *(01-20)*
+- **10 dégaines** *(01-20)*
+- **3 mousquetons** *(01-20)*
+- **Descendeur simple** *(01-20)*
+- **Vache** *(01-20)*
 - **Baudrier** *(avant 2020)*
 - **Pof à magnésie** — marque Simond
-- **Chaussons d’escalade** — Katana *(Fév-2025)*
+- **Chaussons d’escalade** — Katana *(02-25)* - ressemmelé *(08-26)*
 - **Slackline**
+- **Longe de via feratta** 115€ *(08-26)*
 
-## Bivouac
-- **Paracorde** : 20m, 4mm, 550lbs(250kg) (11e) Frendo france depuis 1946 - corde Ultra-résistante - polyester, 185g (07-2026)
-- **Cordelette** x2 : Cordelette d'escalade et d'alpinisme 4 mm x 7 m - rougem Décathlon Simond, (6,50e unité) ; Résistance statique (norme EN 564 : 2023) Force de rupture :  4,4 kN, Résistance noeud de plein poing : 6,3 kN, Résistance noeud de pêcheur double : 6,53 kN (07-2026)
-- **Hamac** : Azimut outdoor Hamac rando Nylon, 350g, 250kg, (20e) Compact et léger grâce à son tissu nylon 210T
+## Bivouac & Sport
+- **Paracorde** - 20m, 4mm, 550lbs(250kg) (11e) Frendo france depuis 1946 - corde Ultra-résistante - polyester, 185g (07-2026)
+- **Cordelette** x2 - Cordelette d'escalade et d'aWlpinisme 4 mm x 7 m - rougem Décathlon Simond, (6,50e unité) ; Résistance statique (norme EN 564 : 2023) Force de rupture :  4,4 kN, Résistance noeud de plein poing : 6,3 kN, Résistance noeud de pêcheur double : 6,53 kN (07-2026)
+- **Hamac** - Azimut outdoor Hamac rando Nylon, 350g, 250kg, (20e) Compact et léger grâce à son tissu nylon 210T
 Matière : Nylon 210T, Poids : 350 g, 2 cordes de 3 mètres chacune, Housse de rangement cousue, Hamac 1 personne, Longueur : 275 cm, Largeur : 140cm (environ) (07-2026)
-- **Hamac avec moustiquaire** : NATUREFUN Hamac de Camping avec Moustiquaire | Capacité de Charge de 300kg, (290 x 140 cm) Nylon Parachute Respirant, séchage Rapide, (27e) Nylon 210T
-Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons + 1 corde 2.4m, 2 sangles suspension 2m, 2 piquets + 2 cordes haubanage 2.2m, Housse de rangement cousue, (07-2026)
+- **Hamac avec moustiquaire** - NATUREFUN Hamac de Camping avec Moustiquaire (07-2026) (27e)
+  - Capacité de Charge de 300kg, (290 x 140 cm) Nylon Parachute Respirant, séchage Rapide,  Nylon 210T
+  - Matière : Nylon 210T, Poids : 840g
+  - 2 crochet en D (900kg), 2 petits mousquetons + 1 corde 2.4m, 2 sangles suspension 2m, 2 piquets + 2 cordes haubanage 2.2m, Housse de rangement cousue, 
 - **Tarp** Tarp L (decathlon) Imperméable 8M² (285x285) Avec Mâts Et Protection UV UPF 30 Quechua - Kit complet : 1 bâche, 2 mâts 4 sections (200 cm), 6 sardines, 6 haubans, housse. Jusqu’à 8 m² de surface protégée selon configuration.
-- **Lampe de poche** : (Action) 5e: 800-400 lumen, autonomie 3.5h
+- **Lampe de poche** - (Action) 5e: 800-400 lumen, autonomie 3.5h
+- **Drap de sac de couchage micro polyester sarco Wilsa** - (< 08-26) 14€
+- **Dakine Drafter Sac à dos 10L - Noir** - (08-26) (Sport a tout prix) 85€ *(au lieu de 170e)* - Sac a dos vélo avec camel bag 3L - Le sac à dos hydratation vélo tout-terrain classique Drafter 10L de Dakines a été mis à jour pour offrir les performances exigées par les cyclistes modernes.
+  - Points forts du sac à dos Dakine Drafter 10L
+  - Réservoir lombaire 3L / 100 oz Dakine x Hydrapak® 3D avec déconnexion rapide
+  - Valve à mordre Comet auto-étanche avec collier de serrage magnétique pouvant être ouverte et verrouillée d'une seule main.
+  - Panneau arrière AirLite Suspension
+  - Courroies d'épaules ergonomiques et respirantes avec rangement rapide pour les lunettes de soleil
+  - Ceinture en sangle de 25 mm avec ailettes de hanches
+  - Compartiments séparés pour le chargement et l'hydratation
+  - Système interne de rangement de la batterie de rechange pour vélos électriques
+  - Poche matelassée et doublée en polaire pour lunettes de soleil/téléphone
+  - Poches d'organisation internes
+  - Courroies de transport externes déployables
+  - Panneau de compression et de rangement rapide à l'avant
+  - Panneau et fermetures éclair réfléchissants et fixation pour lumière de sécurité
+  - Compatible avec le DK Impact Spine Protector (vendu séparément)
+  - 100% polyester recyclé
+  - Détails du sac à dos Dakine Drafter 10L: Un cadre nouvellement introduit permet d'économiser du poids et d'augmenter le confort et la respirabilité. Une pochette rapide ajoutée sur la baudrier escalade offre un rangement intuitif pour les lunettes de soleil, et une boucle d'hydratation magnétique avec un réservoir lombaire Hydrapak® de trois litres offre une commodité et un centre de gravité abaissé. La poche organizer permet de ranger les outils, les pièces de rechange et les objets de première nécessité. Parmi les autres caractéristiques, citons la compatibilité avec la protection de la colonne vertébrale, le portage externe du casque et les courroies déployables pour le transport des rembourrages de matelassés.
+
 
 ---
 
@@ -172,12 +194,14 @@ Matière : Nylon 210T, Poids : 840g,2 crochet en D (900kg), 2 petits mousquetons
 
 ### Pièces & entretien
 - Plaque de lamelles Arkia D (1 OK)
+- Kit de visserie M2.5, Ensemble de 840 vis à tête hexagonale avec vis à tête bombée, vis à tige cylindrique, écrous et rondelles, Acier Carbone
 - Autres pièces en réserve...
 
 ### Divers musiques
 - 03-05-26 - **Support d'enceintes à Pince pour Bureau** amazon (35€), Suptek, Réglables en Hauteur, Inclinables et Pivotants, Plateaux 24,4 x 22,4 cm, Supports Universels pour Enceintes PC et Bibliothèque, SDM001B
 - 25-11-25 - **Pied piano** amazon (20€), BoomToneDJ KS1 Support X réglable 65 à 95cm. Métal, 2,14kg, 95x50x95cm(L x l x H), Charge maxi 15kg.
 - 12-11-21 - **Pied micro inclinable de table JB50** (22€)
+
 
 ---
 
