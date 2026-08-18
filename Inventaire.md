@@ -1,18 +1,17 @@
 ---
-
 title: Roger Srey
 description: Mon matériel personnel
 author: Roger Srey
 date: 2025-02-11
-lastmod: 2026-08-18
--------------------
-
+lastmod: 2025-30-11
+---
 [< Home](./)
 
 # Mon inventaire
 
-## Escalade
+---
 
+## Escalade
 * **Corde** — 80 m, 10 mm *(01-20)*
 * **Sac bandoulière pour corde** *(01-20)*
 * **10 dégaines** *(01-20)*
@@ -26,16 +25,13 @@ lastmod: 2026-08-18
 * **Longe de via ferrata** — 115 € *(08-26)*
 
 ## Bivouac & Sport
-
 * **Paracorde** — 20 m, 4 mm, 550 lbs / 250 kg — Frendo, polyester, 185 g — 11 € *(07-26)*
 * **Cordelette ×2** — cordelette d'escalade et d'alpinisme, 4 mm × 7 m — Simond, rouge — 6,50 € / unité *(07-26)*
-
   * Résistance statique : norme EN 564:2023
   * Force de rupture : 4,4 kN
   * Résistance avec nœud de plein poing : 6,3 kN
   * Résistance avec nœud de pêcheur double : 6,53 kN
 * **Hamac** — Azimut Outdoor, hamac randonnée en nylon — 20 € *(07-26)*
-
   * Matière : nylon 210T
   * Poids : 350 g
   * Charge maximale annoncée : 250 kg
@@ -45,7 +41,6 @@ lastmod: 2026-08-18
   * Housse de rangement cousue
   * Hamac 1 personne
 * **Hamac avec moustiquaire** — NatureFun — 27 € *(07-26)*
-
   * Capacité de charge : 300 kg
   * Dimensions : 290 × 140 cm
   * Matière : nylon parachute 210T respirant et à séchage rapide
@@ -58,7 +53,6 @@ lastmod: 2026-08-18
   * 2 cordes de haubanage de 2,2 m
   * Housse de rangement cousue
 * **Tarp** — Quechua Tarp L, 8 m², 285 × 285 cm, avec mâts et protection UV UPF 30
-
   * 1 bâche
   * 2 mâts 4 sections de 200 cm
   * 6 sardines
@@ -66,12 +60,10 @@ lastmod: 2026-08-18
   * Housse
   * Jusqu'à 8 m² de surface protégée selon la configuration
 * **Lampe de poche** — Action — 5 € *(07-26)*
-
   * Puissance : 800–400 lumens
   * Autonomie : 3,5 h
 * **Drap de sac de couchage** — Wilsa, micro-polyester, sarcophage — 14 € *(avant 08-26)*
 * **Sac à dos** — Dakine Drafter 10 L, noir — 85 € au lieu de 170 € *(08-26)*
-
   * Acheté chez Sport à Tout Prix
   * Sac à dos vélo avec poche à eau 3 L
   * Réservoir lombaire Dakine × Hydrapak® 3 L / 100 oz avec déconnexion rapide
@@ -90,335 +82,297 @@ lastmod: 2026-08-18
   * Compatible avec le DK Impact Spine Protector
   * 100 % polyester recyclé
 
+---
+
 ## Vélo
-
 ### VTT BH
-
-* **Roues** — 26 × 2.0 (52-559), valve Schrader
-
+- Roues **26x2.0 (52-559)** — valve Schrader (grosse)
+  
 ### Vélo MBK
-
-* **Roues** — 700 × 35C, valve Presta
-
-## Musique
-
-### Instruments
-
-* **Guitares**
-
-  * **Fender American Deluxe Stratocaster** — USA, 2006
-
-    * Corps : aulne (*Select Alder*)
-    * Manche : érable, profil moderne « C »
-    * Touche : palissandre ou érable selon version
-    * Diapason : 25,5" (≈ 648 mm)
-    * Rayon de touche : 9,5" (≈ 241 mm)
-    * Largeur au sillet : ≈ 1,6875" (≈ 43 mm)
-    * 22 frettes Medium-Jumbo
-    * 3 × Samarium Cobalt Noiseless™ Strat single-coil
-    * Sélecteur 5 positions
-    * Système S-1 sur le volume
-    * Mécaniques Deluxe Staggered Cast/Sealed Locking
-    * Tremolo synchronisé 2 points avec bras pop-in
-    * Accastillage chromé
-    * Finition : Urethane
-    * Numéro de série : `DZ6105089`
-    * Pays de fabrication : États-Unis
-    * Année estimée : 2006
-    * [Référence Fender][1]
-  * **Dowina électro-acoustique** — 400 €
-  * **Guitare acoustique** — no-name bas de gamme
-
-* **Micro dynamique** — Shure SM58 — 100 €
-
-  * Directivité : cardioïde
-  * Réponse en fréquence : 50–15 000 Hz
-  * Sensibilité : −56 dBV/Pa (1,85 mV)
-  * Dimensions : 23 × 162 × 51 mm
-  * Poids : 298 g
-
-* **Micro studio statique** — Lewitt LCT 240 PRO — 100 €
-
-  * Type : microphone à condensateur
-  * Directivité : cardioïde
-  * Construction : métal
-  * Capsule : plaquée or, 17 mm
-  * Plage dynamique : 123 dB-A
-  * Sensibilité : 16,7 mV/Pa (−35,5 dBV)
-  * Dimensions : 138 × 52 × 36 mm
-  * Poids : 310 g
-  * Couleur : noir
-
-* **Piano** — Yamaha P-45 — 329 € *(20-11-25)*
-
-  * Garantie : 2 ans
-
-* **Piano** — Yamaha PSR-520 — acheté sur Leboncoin, donné à Mika
-
-* **Batterie acoustique**
-
-* **Mélodica**
-
-* **Hulusi** — E, F
-
-### Amplis
-
-* **Marshall MG250DFX** — ampli guitare transistor 100 W, stéréo 2 × 50 W, 2 × 12"
-
-  * Type : combo à transistors (*solid-state*)
-  * Canaux : Clean / Overdrive (OD1 / OD2)
-  * Égalisation : Bass / Middle / Treble
-  * Effets intégrés : reverb, delay, chorus, flanger, phaser, multi-effets numériques
-  * Entrées / sorties :
-
-    * Entrée guitare — jack 6,35 mm
-    * Entrée CD / Aux — RCA
-    * Sortie casque
-    * Boucle d'effets
-  * Technologie à transistors
-  * Sonorité Marshall moderne
-  * Overdrive puissant et agressif
-  * Clean correct, moins riche qu'un ampli à lampes
-  * Effets intégrés pratiques pour jouer sans pédales
-
-* **Blackstar HT-5** — 5 W
-
-  * Préampli : 1 × ECC83
-  * Ampli : 1 × 12BH7
-  * Baffle : 1 × 10" Celestion
-  * 2 canaux
-  * Dimensions : 442 × 430 × 235 mm
-  * Poids : 11,5 kg
-  * Série : HT-5
-
-* **Orange Crush Mini** — 3 W
-
-  * Puissance : 3 W RMS
-  * Haut-parleur : 4"
-  * Sortie pour baffle externe
-  * Entrée Aux
-  * Alimentation : batterie ou bloc d'alimentation optionnel
-  * Dimensions : 149 × 139 × 80 mm
-  * Poids : 0,8 kg
-
-* **Roland Micro Cube** — 2 W
-
-  * Haut-parleur : 5" (12 cm)
-  * Dimensions : 24,4 × 16,6 × 22,6 cm
-  * Poids : 3,3 kg
-  * Alimentation : 6 piles AA ou secteur
-  * Modélisations d'amplis :
-
-    * Acoustic
-    * JC Clean
-    * Black Panel
-    * Brit Combo
-    * Classic Stack
-    * R-Fier Stack
-    * Mic
-  * Effets : chorus, flanger, phaser, tremolo, delay, reverb
-
-### Autre matériel audio
-
-* **Enceintes de monitoring** — 2 × Yamaha HS7, 100 W (65 + 35 W) — 219 € / unité *(09-09-23, EnergySon)*
-* **Carte son** — Behringer U-Phoria UMC404HD — 118 € *(07-05-21, Thomann)*
-
-### Harmonicas diatoniques
-
-#### Malette
-
-* **Arkia** — C, G, D, E, B, Eb, Ab, Bb
-* **Seydel** — A
-* **Marine Band** — F#, Db
-* **Hohner JJ Milteau** — F
-
-#### Hors malette
-
-* **Marine Band Crossover** — A
-* **Lee Oskar** — E
-
-### Autres harmonicas
-
-* **Basse**
-* **Chromatique (diatonique)** — Trochilus C
-* **Double** — Marine Band, autres modèles
-
-### Pièces & entretien
-
-* **Plaque de lamelles Arkia D** — 1 OK
-* **Kit de visserie M2.5** — ensemble de 840 vis à tête hexagonale, vis à tête bombée, vis à tige cylindrique, écrous et rondelles, acier carbone
-* **Autres pièces** — en réserve...
-
-### Divers musique
-
-* **Support d'enceintes à pince pour bureau** — Suptek SDM001B — 35 € *(03-05-26, Amazon)*
-
-  * Réglable en hauteur
-  * Inclinable et pivotant
-  * Plateaux : 24,4 × 22,4 cm
-  * Compatible enceintes PC et bibliothèque
-
-* **Pied de piano** — BoomToneDJ KS1 — 20 € *(25-11-25, Amazon)*
-
-  * Support X réglable : 65–95 cm
-  * Métal
-  * Poids : 2,14 kg
-  * Dimensions : 95 × 50 × 95 cm
-  * Charge maximale : 15 kg
-
-* **Pied de micro inclinable de table JB50** — 22 € *(12-11-21)*
-
-## Autres
-
-* **Tenga Spinner 03 Shell** *(11-25)*
-* **Lotion Regular ×1** *(11-25)*
-* **Paracorde ×5** — 15 m × 3 mm, Action, 125 kg max *(10-25)*
-* **MTG — tapis de jeu Yoshimaru** — Crows Arena, 60 × 34 cm — 20 € *(03-05-26)*
-
-## Pierre à aiguiser & entretien
-
-* **Naniwa Multi Stone** — grains 1000 / 3000 — 25 € *(19-03-21)*
-* **Skerper Flattening Stone SA004** — pierre à égaliser, grains 24 / 220 — 25 € *(10-06-26)*
-* **Skerper pâte d'affilage rouge** — 1,5 micron, fine / ultra-fine (5000+) — 5,40 € *(24-08-21)*
-* **Skerper pâte d'affilage noire** — 0,6 micron, ultra-fine (5000+) — 5,40 € *(24-08-21)*
-
-## Couteaux pliants
-
-### Mcusta — *Damas*
-
-*Offert par mon grand frère*
-
-* **Acier** : VG-10 (cœur) / Damas
-* **Longueur de lame** : 7 cm
-* **Poids** : 62 g
-* **Poignée** : bois de Pakka
-* **HRC** : 60–61 HRC ([Mcusta USA][2])
-
-**Description :** Petit pliant japonais raffiné, équilibré et tranchant, idéal pour un usage quotidien discret.
-
-**+** Tenue de coupe remarquable, esthétique damas.
-**–** Sensible à la corrosion, réaffûtage délicat.
-**Usage :** EDC élégant, coupe fine, petit usage culinaire.
-
-<img src="/roger-srey/images/mcusta.jpeg" alt="Mcusta" width="300">
-
-### Coq Français — *Annecy (Thiers)*
-
-* **Acier** : Z40C13 / X46Cr13
-* **Poignée** : inox + bois Red Heart
-* **Verrouillage** : liner lock
-* **Étui** : cuir noir
-* **HRC** : 54–56 HRC ([Eurotechni][3])
-
-**Description :** Couteau artisanal soigné de Thiers, solide et élégant avec une gravure « Annecy ».
-
-**+** Bonne résistance à la corrosion, belle finition.
-**–** Tranchant à raviver souvent.
-**Usage :** EDC urbain ou collection.
-
-<img src="/roger-srey/images/coqFrancais.jpeg" alt="Coq Français" width="300">
-
-### Critical Strike X503-BK
-
-* **Acier** : VG-10
-* **Longueur de lame** : 8,3 cm
-* **Épaisseur de lame** : 3,5 mm
-* **Poignée** : G10 noir
-* **Poids** : 111,8 g
-* **HRC** : 59–61 HRC ([Coutellerie Tourangelle][4])
-
-**Description :** Pliant robuste, avec une bonne épaisseur de lame pour un usage mixte.
-
-**+** Tranchant durable, bonne résistance à l'usure.
-**–** Coupe fine moins aisée, un peu lourd.
-**Usage :** EDC outdoor, travaux légers.
-
-<img src="https://www.coutellerie-tourangelle.com/images/imagecache/400x400/jpg/X503-BK-Critical-Strike-X503-VG10-G10-Noir-X503-BK.webp" alt="Critical Strike X503-BK" width="300">
-
-### CRKT — CEO Flipper *(Richard Rogers)*
-
-* **Acier** : AUS-8
-* **Longueur de lame** : 8 cm
-* **Poignée** : FRN
-* **Poids** : 55 g
-* **HRC** : 58–59 HRC ([Couteaux du Chef][5])
-
-**Description :** Flipper ultra-léger, au design fin et élégant.
-
-**+** Facile à affûter, bonne résistance à la corrosion.
-**–** Tenue de coupe modérée.
-**Usage :** EDC urbain, coupe légère.
-
-<img src="/roger-srey/images/CEO.jpeg" alt="CRKT CEO" width="300">
-
-### Higonokami Black — Nagao Kanekoma
-
-* **Acier** : SK Steel
-* **Longueur de lame** : 8,5 cm
-* **Longueur du manche** : 10 cm
-* **Poids** : 48 g
-* **HRC** : ~60 HRC (estimé)
-
-**Description :** Véritable Higonokami fabriqué au Japon par Nagao Kanekoma. Pliant traditionnel sans verrouillage utilisant le célèbre levier *chikiri*.
-
-**+** Tranchant très fin, excellente qualité de coupe, authenticité.
-**–** Acier carbone oxydable, pas de verrouillage, demande un peu d'entretien.
-**Usage :** EDC traditionnel, cuisine légère, collection.
-
-<img src="https://cdn.store-factory.com/www.cocktail7.com/content/product_11267976b.jpg" alt="Higonokami" width="300">
-
-### Böker Mokuzai Higonokami
-
-* **Acier** : carbone C75
-* **Longueur de lame** : 6,4 cm
-* **Longueur du manche** : 8,5 cm
-* **Poids** : 33 g
-* **HRC** : ~57–59 HRC
-
-**Description :** Interprétation moderne du Higonokami par Böker. Conserve le style japonais tout en proposant une finition plus soignée et un manche en bois.
-
-**+** Compact, élégant, bonne qualité de fabrication.
-**–** Acier carbone sensible à la corrosion, pas de verrouillage, lame plus courte.
-**Usage :** Petit EDC, collection, coupe occasionnelle.
-
-<img src="/roger-srey/images/hikonogami.jpeg" alt="Higonokami" width="300">
-
-### Douk-Douk 160 — *carbone*
-
-* **Acier** : carbone, type XC75 estimé
-* **Longueur de lame** : 7 cm
-* **Longueur totale** : 16 cm
-* **Poignée** : acier replié noirci
-* **HRC** : 55–58 HRC (estimé) ([Sabatier Shop][6])
-
-**Description :** Icône française, rustique et efficace.
-
-**+** Facile à entretenir, look historique.
-**–** Sensible à la corrosion, tranchant à entretenir.
-**Usage :** EDC rustique, collection.
-
-### CJRB Chord — *AR-RPM9 (J1927-MGN, Micarta)*
-
-* **Acier** : AR-RPM9
-* **Longueur de lame** : 7–9 cm
-* **Poignée** : Micarta
-* **Verrouillage** : button lock
-* **HRC** : 59–61 HRC ([KnifeWorks][7])
-
-**Description :** Pliant moderne bien équilibré, adapté à l'usage quotidien.
-
-**+** Bon équilibre tranchant / dureté, design agréable.
-**–** Acier propriétaire, qualité variable.
-**Usage :** EDC polyvalent.
-
-<img src="/roger-srey/images/CJRB.jpeg" alt="CJRB Chord" width="300">
+- Roues **700x35C** — valve fine (Presta)
 
 ---
 
-[1]: https://serialnumberlookup.fender.com/product/0101200723
-[2]: https://www.mcustausa.com
-[3]: https://www.eurotechni.com/fr/acier/z40c13-x46cr13
-[4]: https://www.coutellerie-tourangelle.com
-[5]: https://www.couteauxduchef.com
-[6]: https://www.sabatier-shop.com
-[7]: https://www.knifeworks.com
+## Musique
+### Instruments
+- **Guitares**
+  - **Fender American Deluxe Stratocaster (USA, 2006)** — corps aulne, manche érable, touche palissandre ou érable, 3 micros Noiseless SCN, tremolo 2-point, locking tuners, manche modern “C”, diapason 25.5”
+    - **Numéro de série** : `DZ6105089`
+    - **Série / Modèle** : American Deluxe Stratocaster (USA)
+    - **Année de fabrication estimée** : 2006 (préfixe “DZ6” = American Deluxe, 2006)
+    - **Pays de fabrication** : États-Unis (Made in USA)
+    - **Corps** : Aulne (*Select Alder*)
+    - **Finition du corps** : Urethane (vernis brillant)
+    - **Manche** : Érable, profil moderne “C”
+    - **Touche** : Palissandre *ou* érable selon version (rosewood or maple fingerboard possible)
+    - **Rayon de la touche** : 9.5" (≈ 241 mm) — radius standard pour confort et polyvalence
+    - **Diapason** : 25.5″ (≈ 648 mm)
+    - **Largeur au sillet (nut width)** : environ 1.6875" (≈ 43 mm)
+    - **Nombre de frettes** : 22 frettes Médium-Jumbo
+    - **Mécaniques** : Verrouillables “Deluxe Staggered Cast/Sealed Locking Tuning Machines” (accordage stable, pratique pour vibrato)
+    - **Chevalet / Vibrato** : Tremolo 2-point synchronisé, avec bras “pop-in” (vibrato moderne, fluide)
+    - **Micros** : 3 × Samarium Cobalt Noiseless™ Strat single-coil pickups — micros “sans souffle” adaptés pour scène ou enregistrement.
+    - **Switch & configuration électronique** :
+      - Sélecteur 5 positions (classique Strat)
+      - Interrupteur **S-1** (push/push sur le bouton de volume) : permet des combinaisons supplémentaires, tonalités plus variées — un vrai plus pour la polyvalence.
+    - **Accastillage** : Chrome (pontets, visserie, etc.) 
+    - https://serialnumberlookup.fender.com/product/0101200723
+    
+  - Dowina electro-acoustique — 400 €
+  - Guitare acoustique no-name bas de gamme
+- **Micro dynamique** — Shure SM58 — 100 € LCE Microphone dynamique pour la voix
+                                          Directivité: Cardioïde
+                                          Réponse en fréquence: 50 - 15.000 Hz
+                                          Sensibilité: -56 dBV/Pa (1,85 mV)
+                                          Dimensions: 23 x 162 x 51 mm
+                                          Poids: 298 g
+- **Micro studio (statique)** — Lewitt LCT 240 PRO — 100 € Microphone à condensateur
+                                                          Directivité: Cardioïde
+                                                          Construction robuste en métal
+                                                          Capsule plaquée or
+                                                          Taille de la capsule: 17 mm
+                                                          Plage dynamique: 123 dB-A
+                                                          Sensibilité: 16,7 mV / Pa (-35,5 dBV)
+                                                          Dimensions: 138 x 52 x 36 mm
+                                                          Poids: 310 g
+                                                          Couleur: Noir
+- **Piano** — Yamaha P-45 — 329 € *(20-11-25)* - Garantie 2ans
+- **Piano** — Yamaha PSR-520 (boncoin, donné a Mika)
+- **Batterie acoustique**
+- **Mélodica**
+- **Hulusi** E, F
+- **Amplis**
+  - Marshall MG250DFX — ampli guitare transistor 100W (stéréo 2×50W), 2x12”
+                  Type : Ampli combo à transistors (solid-state)
+                  Puissance : 100 Watts (2 × 50W stéréo)
+                  Haut-parleurs : 2 × 12” (configuration stéréo)
+                  Canaux : Clean / Overdrive (OD1 / OD2)
+                  Égalisation : Bass / Middle / Treble indépendants
+                  Effets intégrés (DFX) :
+                    - Reverb
+                    - Delay
+                    - Chorus
+                    - Flanger
+                    - Phaser
+                    - Multi-effets numériques
+                  Entrées / sorties :
+                    - Entrée guitare (jack 6,35 mm)
+                    - Entrée CD / Aux (RCA)
+                    - Sortie casque
+                    - Boucle d’effets
+                  Caractéristiques :
+                    - Technologie à transistors (pas de lampes)
+                    - Sonorité typée Marshall moderne
+                    - Overdrive puissant et agressif
+                    - Clean correct mais moins riche que les amplis à lampes
+                    - Effets intégrés pratiques pour le jeu sans pédales
+                  
+  - Blackstar HT5  5 Watts
+                    Préampli : à lampe (1 x ECC83)
+                    Ampli : à lampe (1 x 12BH7)
+                    Puissance : 5 Watts
+                    Baffle(s) : 1 x 10" Celestion
+                    Canaux : 2 canaux
+                    Dimensions : 442 x 430 x 235 mm
+                    Poids : 11,5 kg
+                    Série : HT-5
+                    
+  - Orange Crush Mini  3 Watts
+                       Puissance: 3 Watt RMS
+                       1 haut-parleur 4"
+                       Sortie pour baffle externe
+                       Entrée Aux
+                       Fonctionne sur batterie ou avec un bloc d'alimentation optionnel non-fourni
+                       Dimensions: 149 x 139 x 80 mm
+                       Poids: 0,8 kg
+                       
+  - Roland MICRO CUBE   Puissance : 2 W
+                        Haut-parleur : 5 pouces (12 cm)
+                        Dimensions (l*P*H) : 24,4 cm * 16,6 cm * 22,6 cm
+                        Poids : 3,3 kg
+                        Alimentation : 6 piles AA ou prise secteur
+                        7 modélisations d'amplis :
+                        Acoustic (guitare acoustique)
+                        JC Clean (Roland Jazz Chorus-120)
+                        Black Panel (Fender Twin Reverb)
+                        Brit Combo (Vox AC30)
+                        Classic Stack (Marshall JMP)
+                        R-fier Stack (Mesa Boogie Rectifier)
+                        Mic (pré-amplification pour micro)
+                        6 effets : chorus, flanger, phaser, tremolo, delay, reverb
+                        
+                        
+### Autre matériel audio
+
+* **Enceintes de monitoring** — 2 × Yamaha HS7, 100 W (65 + 35 W) — (219x2=) 489 € / unité *(09-09-23, EnergySon)*
+* **Carte son** — Behringer U-Phoria UMC404HD — 118 € *(07-05-21, Thomann)*
+
+### Harmonicas diatoniques
+#### Malette
+- Arkia : C, G, D, E, B, Eb, Ab, Bb
+- Seydel : A
+- Marine Band : F#, Db
+- Hohner JJ Milteau : F
+
+#### Hors malette
+- Marine Band Crossover: A
+- Lee Oskar E
+
+### Autres harmonicas
+- **Basse**
+- **Chromatique (diatonique)** — Trochilus C
+- **Double** : Marine Band (autres modèles)
+
+### Pièces & entretien
+- Plaque de lamelles Arkia D (1 OK)
+- Kit de visserie M2.5, Ensemble de 840 vis à tête hexagonale avec vis à tête bombée, vis à tige cylindrique, écrous et rondelles, Acier Carbone
+- Autres pièces en réserve...
+
+### Divers musiques
+- 03-05-26 - **Support d'enceintes à Pince pour Bureau** amazon (35€), Suptek, Réglables en Hauteur, Inclinables et Pivotants, Plateaux 24,4 x 22,4 cm, Supports Universels pour Enceintes PC et Bibliothèque, SDM001B
+- 25-11-25 - **Pied piano** amazon (20€), BoomToneDJ KS1 Support X réglable 65 à 95cm. Métal, 2,14kg, 95x50x95cm(L x l x H), Charge maxi 15kg.
+- 12-11-21 - **Pied micro inclinable de table JB50** (22€)
+
+
+---
+
+## Autres
+- **Tenga spinner 03 Shell** *(Nov-2025)*
+- **1 lotion regular** *(Nov-2025)*
+- **5 paracordes 15mx3mm** - Action, 125kg max *(Oct-2025)*
+- **MTG - Tapis de jeu - Yoshimaru** - Crows Arena, 23(7/8)"x13(1/2)", 60cmx34cm *(3-Mai-2026 20€)*
+
+---
+
+
+---
+
+## Pierre a aiguiser et autres
+- Naniwa Multi Stone grain 1000/3000 25e 19/03/2021
+- Skerper Flattening Stone SA004 pierre à égaliser grain 24/220 25 10/06/2026
+- Skerper pâte d'affilage, stropping compound rouge, fin 5,40€ 1,5 micron fine Ultra fine (5000+) 24/08/2021
+- Skerper pâte d'affilage, stropping compound noir, ultra fin 5,40 € 0,6 micron Grain ultrafine Ultra fine (5000+) 24/08/2021
+
+## Couteaux pliants
+
+---
+
+### Mcusta — *Damas* (offert par mon grand frère)
+- **Acier** : VG-10 (cœur) / Damas
+- **Longueur lame** : 7 cm  
+- **Poids** : 62 g  
+- **Poignée** : Bois de Pakka  
+- **HRC** : 60–61 HRC ([mcustausa.com][1])  
+**Description :** Petit pliant japonais raffiné, équilibré et tranchant, idéal pour un usage quotidien discret.  
+**+** Tenue de coupe remarquable, esthétique damas.  
+**–** Sensible à la corrosion, réaffûtage délicat.  
+**Usage :** EDC élégant, coupe fine, petit usage culinaire.
+<img src="/roger-srey/images/mcusta.jpeg" alt="Mcusta" width="300" height=auto>
+
+---
+
+### Coq Français — *Annecy (Thiers)*
+- **Acier** : Z40C13 / X46Cr13  
+- **Poignée** : Inox + bois Red Heart (cire d’abeille)  
+- **Verrouillage** : Liner lock  
+- **Étui** : Cuir noir  
+- **HRC** : 54–56 HRC ([EUROTECHNI S.A.S][2])  
+**Description :** Couteau artisanal soigné de Thiers, solide et élégant avec une gravure “Annecy”.  
+**+** Bonne résistance à la corrosion, belle finition.  
+**–** Tranchant à raviver souvent.  
+**Usage :** EDC urbain ou de collection.
+<img src="/roger-srey/images/coqFrancais.jpeg" alt="Coq Français" width="300" height=auto>
+
+---
+
+### Critical Strike X503-BK
+- **Acier** : VG-10  
+- **Longueur lame** : 8.3 cm  
+- **Épaisseur lame** : 3.5 mm  
+- **Poignée** : G10 noir  
+- **Poids** : 111.8 g  
+- **HRC** : 59–61 HRC ([coutellerie-tourangelle.com][3])  
+**Description :** Pliant robuste, bonne épaisseur de lame pour un usage mixte.  
+**+** Tranchant durable, bonne résistance à l’usure.  
+**–** Coupe fine moins aisée, un peu lourd.  
+**Usage :** EDC outdoor, travaux légers.
+<img src="https://www.coutellerie-tourangelle.com/images/imagecache/400x400/jpg/X503-BK-Critical-Strike-X503-VG10-G10-Noir-X503-BK.webp" alt="Critical Strike X503-BK" width="300" height=auto>
+
+---
+
+### CRKT — CEO Flipper (Richard Rogers)
+- **Acier** : AUS-8  
+- **Longueur lame** : 8 cm  
+- **Poignée** : FRN  
+- **Poids** : 55 g  
+- **HRC** : 58–59 HRC ([Couteaux du Chef][4])  
+**Description :** Flipper ultra-léger, design fin et élégant.  
+**+** Facile à affûter, corrosion faible.  
+**–** Tenue de coupe modérée.  
+**Usage :** EDC urbain, coupe légère.
+<img src="/roger-srey/images/CEO.jpeg" alt="CRKT" width="300" height=auto>
+
+---
+
+### Higonokami Black — Nagao Kanekoma
+- **Acier** : SK Steel
+- **Longueur lame** : 8.5 cm
+- **Longueur manche** : 10 cm
+- **Poids** : 48 g
+- **HRC** : ~60 HRC (estimé)
+**Description :** Véritable Higonokami fabriqué au Japon par Nagao Kanekoma. Pliant traditionnel sans verrouillage utilisant le célèbre levier *chikiri*.
+**+** Tranchant très fin, excellente qualité de coupe, authenticité.
+**–** Acier carbone oxydable, pas de verrouillage, demande un peu d'entretien.
+**Usage :** EDC traditionnel, cuisine légère, collection.
+<img src="https://cdn.store-factory.com/www.cocktail7.com/content/product_11267976b.jpg" alt="Higonokami" width="300" height=auto>
+
+---
+
+### Böker Mokuzai Higonokami
+- **Acier** : Carbone C75
+- **Longueur lame** : 6.4 cm
+- **Longueur manche** : 8.5 cm
+- **Poids** : 33 g
+- **HRC** : ~57–59 HRC
+**Description :** Interprétation moderne du Higonokami par Böker. Conserve le style japonais tout en proposant une finition plus soignée et un manche en bois.
+**+** Compact, élégant, bonne qualité de fabrication.
+**–** Acier carbone sensible à la corrosion, pas de verrouillage, lame plus courte.
+**Usage :** Petit EDC, collection, coupe occasionnelle.
+<img src="/roger-srey/images/hikonogami.jpeg" alt="Higonokami" width="300" height=auto>
+
+---
+
+### Douk-Douk 160 (carbone)
+- **Acier** : Carbone (type XC75 estimé)  
+- **Longueur lame** : 7 cm  
+- **Longueur totale** : 16 cm  
+- **Poignée** : Acier replié noirci  
+- **HRC** : 55–58 HRC (estimé) ([Sabatier Shop][8])  
+**Description :** Icône française, rustique et efficace.  
+**+** Facile à entretenir, look historique.  
+**–** Sensible à la corrosion, tranchant à entretenir.  
+**Usage :** EDC rustique, collection.
+
+---
+
+### CJRB Chord — *AR-RPM9 (J1927-MGN, Micarta)*
+- **Acier** : AR-RPM9  
+- **Longueur lame** : 7–9 cm  
+- **Poignée** : Micarta  
+- **Verrouillage** : Button lock  
+- **HRC** : 59–61 HRC ([knifeworks.com][9])  
+**Description :** Pliant moderne bien équilibré, parfait pour l’usage quotidien.  
+**+** Bon équilibre tranchant/dureté, design agréable.  
+**–** Acier propriétaire, qualité variable.  
+**Usage :** EDC polyvalent.
+<img src="/roger-srey/images/CJRB.jpeg" alt="CJRB" width="300" height=auto>
+
+---
+
+[1]: https://www.mcustausa.com  
+[2]: https://www.eurotechni.com/fr/acier/z40c13-x46cr13  
+[3]: https://www.coutellerie-tourangelle.com  
+[4]: https://www.couteauxduchef.com  
+[6]: https://www.japanzen.com  
+[8]: https://www.sabatier-shop.com  
+[9]: https://www.knifeworks.com
