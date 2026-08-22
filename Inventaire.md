@@ -206,6 +206,7 @@ lastmod: 2025-30-11
 
 * **Enceintes de monitoring** — 2 × Yamaha HS7, 100 W (65 + 35 W) — (219x2=) 489 € / unité *(09-09-23, EnergySon)*
 * **Carte son** — Behringer U-Phoria UMC404HD — 118 € *(07-05-21, Thomann)*
+* **Bouchon d'oreille Fitciz** — 8 € x2 *(11-06-26, Amazon)* - 1 boite contient 2 paires. (Meilleur achat à mon avis)
 
 ### Harmonicas diatoniques
 #### Malette
