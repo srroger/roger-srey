@@ -29,7 +29,7 @@ lastmod: 30-11-25
                 Shoe Care - Foam leather cleaner, All natural conditioner
                 Made in USA
 - 16-05-26 - 1 pantalon, Dickies 874 Chino Pants Trousers Beige Elegant Original Fit 2014 - Size W32 L32 - FR 42 Très bon état (23,50€)
-- 05-09-26 - chaussures - PePe Jeans London Brick M en 43 (50e à Espace des marques)
+- 05-09-26 - chaussures - PePe Jeans London Brick M en 43 (50e à Espace des marques) [image](/images/PepeJeans50e-43.jpeg)
 
 # Bricolage
 - 03-11-25 - Vis ecrou, M1, M1.2, M1.4, M1.6 (pour lunette)
@@ -38,7 +38,7 @@ lastmod: 30-11-25
 - Kit de visserie M2.5, Ensemble de 840 vis à tête hexagonale avec vis à tête bombée, vis à tige cylindrique, écrous et rondelles, Acier Carbone
 
 # Cuisine
-- 05-09-26 - Set de récipients de cuisson en fonte (émaillé) Premium, 1,9 L / 2,9 L / 4,2 L Silvercrest (50e)
+- 05-09-26 - Set de récipients de cuisson en fonte (émaillé) Premium, 1,9 L / 2,9 L / 4,2 L Silvercrest (50e) [image](/images/Fonte.jpeg)
     Dimensions générales (L×L×H) : 320 mm × 240 mm × 230 mm 
     poêle (L×L×H) : 320 x 240 x 57 mm 
     Grand pot (L×L×H) : 320 x 240 x 125 mm
