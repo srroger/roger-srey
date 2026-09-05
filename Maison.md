@@ -11,6 +11,7 @@ lastmod: 30-11-25
 - 03-11-25 - Canape/lit clic-clac, 115x190cm
 - 03-11-25 - Bureau, 140lx80px68h-71h
 - 03-11-25 - Table pliable 118lx72px68h
+- 03-11-25 - Poubelle cuisine 50L (40L)
 
 # Vetements
 - 03-11-25 - 2 ceintures cuirs, marron et anthracite ( GAROT Jeans Annecy, cuir de taureau plein fleur francais, tanage végétale italie, sur mesure cuir )
