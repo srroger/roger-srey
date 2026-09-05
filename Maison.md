@@ -35,6 +35,7 @@ lastmod: 30-11-25
 - 03-11-25 - Vis ecrou, M1, M1.2, M1.4, M1.6 (pour lunette)
 - 03-11-25 - Vis ecrou, M3x14, M3x16, M3x18, M3x20, M3 nutx, M3x5, M3x, M3x8,M3x10, M3x12 (pour harmo)
 - 03-11-25 - Vis ecrou, M2x4, M2x6, M2x8, M2x10, M2 washers, M2x26, M2x12, M2 Nuts
+- Kit de visserie M2.5, Ensemble de 840 vis à tête hexagonale avec vis à tête bombée, vis à tige cylindrique, écrous et rondelles, Acier Carbone
 
 # Cuisine
 - 05-09-26 - Set de récipients de cuisson en fonte (émaillé) Premium, 1,9 L / 2,9 L / 4,2 L Silvercrest (50e)
