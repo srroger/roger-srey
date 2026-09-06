@@ -93,7 +93,8 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
 - [https://www.immuniweb.com/websec/](https://www.immuniweb.com/websec/) : Outil pour checker la sécu d'un site.
 - [https://whatcms.org/](https://whatcms.org/) : Savoir le CMS qui a été utilisé pour un site web.
 - [https://builtwith.com/](https://builtwith.com/) : Encore un truc pour connaitre les technos d'un site.
-- [Croc, transfert de fichier](https://sebsauvage.net/wiki/doku.php?id=croc) : Un relai chiffré qui permet de facilement transférer des fichiers d'un PC a un autre. [](https://github.com/schollz/croc#install)
+- [Croc, transfert de fichier](https://sebsauvage.net/wiki/doku.php?id=croc) : Un relai chiffré qui permet de facilement transférer des fichiers d'un PC a un autre. [github](https://github.com/schollz/croc#install)
+    Le fichier ne "traîne" pas sur internet : Il n'est pas stocké sur un serveur intermédiaire. Dès que l'application est fermée sur l'émetteur, le fichier n'est plus accessible et le code inutilisable. Multiplateformes (Win, Mac, Linux, architectures x86/x64/arm). (Il existe aussi une version Android).
 
 # Sport
 - [Pistol squat](https://www.litobox.com/exercice-pistol) : Comment faire un pistol squat (et d'autres trucs sur le site : [https://www.litobox.com/](https://www.litobox.com/))
