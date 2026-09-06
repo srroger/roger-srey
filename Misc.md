@@ -66,7 +66,28 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
 </script>
 
 - [Meetup C++ Montpellier](https://www.youtube.com/@CppMediterranee) : Un truc de dev du sud. 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LUt0bdExtZs?si=QHU3AjhB1u_zl0pY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LUt0bdExtZs?si=QHU3AjhB1u_zl0pY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+
+<!-- Le bouton inspiré d'itch.io avec texte centré -->
+<button type="button" 
+        class="embed_preload youtube_preload" 
+        data-video-id="LUt0bdExtZs" 
+        data-video-si="QHU3AjhB1u_zl0pY"
+        style="width: 500px; height: 281px; 
+               background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(https://srroger.github.io/roger-srey/images/lazy.png) 50% 50% no-repeat; 
+               background-size: cover; 
+               border: none; 
+               cursor: pointer;
+               display: inline-flex;
+               align-items: center;
+               justify-content: center;
+               color: white;
+               font-family: sans-serif;
+               font-size: 16px;
+               font-weight: bold;
+               text-shadow: 1px 1px 3px rgba(0,0,0,0.8);">
+  Cliquer pour charger la vidéo YouTube
+</button>
 
 # Outils
 - [https://haveibeenpwned.com/](https://haveibeenpwned.com/) : Savoir si une adresse mail a été piraté.
