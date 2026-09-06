@@ -93,10 +93,13 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
 - [https://www.immuniweb.com/websec/](https://www.immuniweb.com/websec/) : Outil pour checker la sécu d'un site.
 - [https://whatcms.org/](https://whatcms.org/) : Savoir le CMS qui a été utilisé pour un site web.
 - [https://builtwith.com/](https://builtwith.com/) : Encore un truc pour connaitre les technos d'un site.
-
+- [Croc, transfert de fichier](https://sebsauvage.net/wiki/doku.php?id=croc) : Un relai chiffré qui permet de facilement transférer des fichiers d'un PC a un autre. [](https://github.com/schollz/croc#install)
 
 # Sport
 - [Pistol squat](https://www.litobox.com/exercice-pistol) : Comment faire un pistol squat (et d'autres trucs sur le site : [https://www.litobox.com/](https://www.litobox.com/))
+
+# Games
+- [Jeux retro: gam.onl](https://gam.onl/) : Un site pour jouer a des jeux retro à partir de son navigateur.
 
 <!-- Le script qui injecte exactement iframe dans mes embed youtube video-->
 <script>
