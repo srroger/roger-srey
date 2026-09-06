@@ -136,7 +136,7 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
       
       // 3. Création de l'iframe
       const iframe = document.createElement('iframe');
-      iframe.src = "https://facebook.com" + encodedUrl + "&show_text=false&width=560&t=0&autoplay=true";
+      iframe.src = "https://facebook.com/plugins/video.php?height=314&href=" + encodedUrl + "&show_text=false&width=560&t=0&autoplay=true";
       iframe.width = "560";
       iframe.height = "314";
       iframe.style.border = "none";
