@@ -144,7 +144,7 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
       iframe.setAttribute("scrolling", "no");
       iframe.setAttribute("frameborder", "0");
       iframe.setAttribute("allowfullscreen", "true");
-      iframe.setAttribute("allow", "autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share");
+      iframe.setAttribute("allow", "autoplay; clipboard-write; encrypted-media; picture-in-picture");
       
       // 4. Remplacement
       this.parentNode.replaceChild(iframe, this);
