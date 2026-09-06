@@ -17,22 +17,27 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
 # Gens
 - [SebSauvage](https://sebsauvage.net/) : Un geek. 
 - [Shar](https://www.sharyap.com/) : Une artiste / geek (son site web est stiley). 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_tWh4cYCTv0?si=N1azsAcK5yFhOYJW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_tWh4cYCTv0?si=N1azsAcK5yFhOYJW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
-Cool button:
-<!-- Le bouton inspiré d'itch.io -->
+<!-- Le bouton inspiré d'itch.io avec texte centré -->
 <button type="button" 
         class="embed_preload youtube_preload" 
         data-video-id="_tWh4cYCTv0" 
-        style="width: 500px; height: 281px; background: url(https://i.ytimg.com/vi/5Fxw1DqZaYA/hqdefault.jpg) 50% 50% no-repeat; background-size: cover; border: none; cursor: pointer;">
-</button>
-
-<!-- Le bouton (Modifiez l'ID et le code SI si vous changez de vidéo) -->
-<button type="button" 
-        class="youtube_preload" 
-        data-video-id="_tWh4cYCTv0" 
         data-video-si="N1azsAcK5yFhOYJW"
-        style="width: 560px; height: 315px; background: url(https://ytimg.com) 50% 50% no-repeat; background-size: cover; border: none; cursor: pointer;">
+        style="width: 500px; height: 281px; 
+               background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(https://i.ytimg.com/vi/5Fxw1DqZaYA/hqdefault.jpg) 50% 50% no-repeat; 
+               background-size: cover; 
+               border: none; 
+               cursor: pointer;
+               display: inline-flex;
+               align-items: center;
+               justify-content: center;
+               color: white;
+               font-family: sans-serif;
+               font-size: 16px;
+               font-weight: bold;
+               text-shadow: 1px 1px 3px rgba(0,0,0,0.8);">
+  Cliquer pour charger la vidéo YouTube
 </button>
 
 <!-- Le script qui injecte exactement iframe -->
