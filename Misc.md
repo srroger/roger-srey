@@ -19,35 +19,41 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
 - [Shar](https://www.sharyap.com/) : Une artiste / geek (son site web est stiley). 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_tWh4cYCTv0?si=N1azsAcK5yFhOYJW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Cool button:
 <!-- Le bouton inspiré d'itch.io -->
 <button type="button" 
         class="embed_preload youtube_preload" 
         data-video-id="_tWh4cYCTv0" 
-        style="width: 500px; height: 281px; background: url(https://ytimg.com) 50% 50% no-repeat; background-size: cover; border: none; cursor: pointer;">
+        style="width: 500px; height: 281px; background: url(https://i.ytimg.com/vi/5Fxw1DqZaYA/hqdefault.jpg) 50% 50% no-repeat; background-size: cover; border: none; cursor: pointer;">
 </button>
 
-<!-- Le script qui donne vie au bouton -->
+<!-- Le bouton (Modifiez l'ID et le code SI si vous changez de vidéo) -->
+<button type="button" 
+        class="youtube_preload" 
+        data-video-id="_tWh4cYCTv0" 
+        data-video-si="N1azsAcK5yFhOYJW"
+        style="width: 560px; height: 315px; background: url(https://ytimg.com) 50% 50% no-repeat; background-size: cover; border: none; cursor: pointer;">
+</button>
+
+<!-- Le script qui injecte exactement iframe -->
 <script>
 (function() {
-  // 1. Le script cherche tous les boutons de la page
-  const boutons = document.querySelectorAll('.youtube_preload');
-  
-  boutons.forEach(function(bouton) {
-    // 2. Il écoute si on clique dessus
+  document.querySelectorAll('.youtube_preload').forEach(function(bouton) {
     bouton.addEventListener('click', function() {
-      // 3. Il récupère l'identifiant de la vidéo
       const id = this.getAttribute('data-video-id');
-      
-      // 4. Il fabrique la VRAIE iframe YouTube avec la bonne syntaxe
+      const si = this.getAttribute('data-video-si');
       const iframe = document.createElement('iframe');
-      iframe.setAttribute('src', 'https://youtube.com' + id + '?autoplay=1');
-      iframe.setAttribute('width', '500');
-      iframe.setAttribute('height', '281');
-      iframe.setAttribute('frameborder', '0');
-      iframe.setAttribute('allow', 'autoplay; encrypted-media; picture-in-picture');
-      iframe.setAttribute('allowfullscreen', '1');
       
-      // 5. Il remplace le bouton par l'iframe
+      // Reconstruction stricte de votre URL avec vos arguments
+      iframe.src = "https://www.youtube-nocookie.com/embed/" + id + "?si=" + si + "&autoplay=1";
+      iframe.width = "560";
+      iframe.height = "315";
+      iframe.title = "YouTube video player";
+      iframe.frameBorder = "0";
+      iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+      iframe.setAttribute("referrerpolicy", "strict-origin-when-cross-origin");
+      iframe.setAttribute("allowfullscreen", "1");
+      
       this.parentNode.replaceChild(iframe, this);
     });
   });
