@@ -40,31 +40,6 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
   Cliquer pour charger la vidéo YouTube
 </button>
 
-<!-- Le script qui injecte exactement iframe -->
-<script>
-(function() {
-  document.querySelectorAll('.youtube_preload').forEach(function(bouton) {
-    bouton.addEventListener('click', function() {
-      const id = this.getAttribute('data-video-id');
-      const si = this.getAttribute('data-video-si');
-      const iframe = document.createElement('iframe');
-      
-      // Reconstruction stricte de votre URL avec vos arguments
-      iframe.src = "https://www.youtube-nocookie.com/embed/" + id + "?si=" + si + "&autoplay=1";
-      iframe.width = "560";
-      iframe.height = "315";
-      iframe.title = "YouTube video player";
-      iframe.frameBorder = "0";
-      iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
-      iframe.setAttribute("referrerpolicy", "strict-origin-when-cross-origin");
-      iframe.setAttribute("allowfullscreen", "1");
-      
-      this.parentNode.replaceChild(iframe, this);
-    });
-  });
-})();
-</script>
-
 - [Meetup C++ Montpellier](https://www.youtube.com/@CppMediterranee) : Un truc de dev du sud. 
 <!--<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LUt0bdExtZs?si=QHU3AjhB1u_zl0pY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
@@ -94,3 +69,30 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
 - [https://www.immuniweb.com/websec/](https://www.immuniweb.com/websec/) : Outil pour checker la sécu d'un site.
 - [https://whatcms.org/](https://whatcms.org/) : Savoir le CMS qui a été utilisé pour un site web.
 - [https://builtwith.com/](https://builtwith.com/) : Encore un truc pour connaitre les technos d'un site.
+
+
+
+<!-- Le script qui injecte exactement iframe dans mes embed youtube video-->
+<script>
+(function() {
+  document.querySelectorAll('.youtube_preload').forEach(function(bouton) {
+    bouton.addEventListener('click', function() {
+      const id = this.getAttribute('data-video-id');
+      const si = this.getAttribute('data-video-si');
+      const iframe = document.createElement('iframe');
+      
+      // Reconstruction stricte de votre URL avec vos arguments
+      iframe.src = "https://www.youtube-nocookie.com/embed/" + id + "?si=" + si + "&autoplay=1";
+      iframe.width = "560";
+      iframe.height = "315";
+      iframe.title = "YouTube video player";
+      iframe.frameBorder = "0";
+      iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+      iframe.setAttribute("referrerpolicy", "strict-origin-when-cross-origin");
+      iframe.setAttribute("allowfullscreen", "1");
+      
+      this.parentNode.replaceChild(iframe, this);
+    });
+  });
+})();
+</script>
