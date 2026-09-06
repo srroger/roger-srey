@@ -15,6 +15,7 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
 - [Carto Tchoo](https://carto.tchoo.net/) : Tchou tchou
 
 # Gens
+- [Romain](https://www.monin.vip/) : Un pote.
 - [SebSauvage](https://sebsauvage.net/) : Un geek. 
 - [Shar](https://www.sharyap.com/) : Une artiste / geek (son site web est stiley). 
 <!--<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_tWh4cYCTv0?si=N1azsAcK5yFhOYJW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
