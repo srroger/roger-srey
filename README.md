@@ -1,50 +1,32 @@
-# Roger Srey
-## Ingénieur développeur & harmoniciste amateur
-"C'est un endroit où les idées peuvent exister avant d'être organisées. Une pensée incomplète aujourd'hui peut devenir une connaissance importante demain."
+# roger-srey
 
-"Les notes musiques existent car à l'oreille on est facilement capable d'entendre un loup ou un multiple."
+Site personnel de **Roger Srey** : un inventaire et un carnet de notes écrits en
+Markdown, publiés sur GitHub Pages.
 
-"La science, c’est juste comprendre comment la nature fait déjà les choses."
+- Site : https://srroger.github.io/roger-srey/
+- Accueil : [`index.md`](./index.md)
 
-"Ne pas décider consomme de l’énergie.
-Re-décider en consomme encore plus."
+Le reste du contenu vit dans les notes `.md` à la racine (`Inventaire.md`,
+`Livres.md`, …). La mise en page est dans `_layouts/default.html`, le style dans
+`assets/css/style.scss` et la liste affichée en cartes dans `_data/notes.yml`.
 
-"Sur Terre, nous naissons tous égaux
-mais certains sont plus égaux que d'autres."
+## Recherche
 
-"L’Improvisation Me Détache Et Pars Loin" (Lydien – Ionien – Mixolydien – Dorien – Éolien – Phrygien – Locrien)
+La recherche est assurée par [Pagefind](https://pagefind.app/) : l'index est
+généré au moment du build par GitHub Actions (`.github/workflows/pages.yml`).
+Le workflow doit être sélectionné comme source de publication dans
+**Settings → Pages → Build and deployment → Source : GitHub Actions**.
 
-## Quelques harmos
-![](/images/HarmoRayonX.jpeg)
+## Build local
 
-![](/images/HarmonicaRadioAnonym.jpeg)
+```sh
+bundle install
+bundle exec jekyll serve
+```
 
-Radiographiés sur un arceau prototype de type C-arm, les harmonicas Arkia et Marine Band se dévoilent dans leur structure interne, accompagnés d’un fantôme de main — présence neutre, non humaine.
+Pour tester la recherche en local, ajouter l'index Pagefind après le build :
 
-## Notes
-Ce site n'est utile que pour moi-même.
-
-[Inventaire](./Inventaire)
-
-[Livres](./Livres)
-
-[Maison](./Maison)
-
-[Ma config perso](./MaConfigPC)
-
-[Des trucs](./Misc)
-
-## Les notes des copains
-[Noeuds de Romain](https://www.monin.vip/codex/outdoor-camp-knots/)
-
----
-## À propos
-La couleur de fond de ce site (#fff5d1) est inspirée de [Low-tech Magazine](https://solar.lowtechmagazine.com/fr). Plus douce que le blanc pur, elle améliore le confort de lecture et peut, à la marge, réduire la consommation d’énergie sur les écrans OLED.
-
-
-## Liens
-[Mon github](https://github.com/srroger/roger-srey)
-
-[Ici](https://srroger.github.io/roger-srey/)
-
-[OriginalForkedProject](https://github.com/ChristopherA/simplest-github-page/)
+```sh
+bundle exec jekyll build
+npx pagefind --site _site
+```

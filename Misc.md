@@ -1,6 +1,6 @@
 ---
-title: Roger Srey
-description: Misc
+title: Des trucs
+description: Liens et choses en vrac
 author: Roger Srey
 date: 06-09-26
 lastmod: 06-09-26

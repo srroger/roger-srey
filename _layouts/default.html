@@ -1,16 +1,118 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'fr-FR' }}">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://unpkg.com/@primer/css@13.2.0/dist/primer.css" />  <!--Use full Primer.style static CDN-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+
+    {%- comment -%} Titre : celui de la page s'il existe, sinon celui du site. {%- endcomment -%}
+    <title>{% if page.title and page.title != site.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta name="author" content="{{ site.author }}">
+
+    {%- comment -%}
+      Site personnel : on demande aux moteurs de recherche de ne pas l'indexer
+      (le site reste accessible par lien direct). Voir aussi robots.txt.
+    {%- endcomment -%}
+    <meta name="robots" content="noindex, nofollow">
+
+    <link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+    {%- comment -%} Applique le thème mémorisé dès le chargement (évite un flash clair/sombre). {%- endcomment -%}
+    <script>
+      (function () {
+        var saved = localStorage.getItem('theme');
+        if (saved) document.documentElement.setAttribute('data-theme', saved);
+      })();
+    </script>
+
+    {%- comment -%}
+      Pagefind n'existe qu'après un build via GitHub Actions : on ne charge la
+      recherche que si son index a été généré (drapeau `pagefind` dans _config.yml).
+    {%- endcomment -%}
+    {% if site.pagefind %}
+    <link rel="stylesheet" href="{{ '/pagefind/pagefind-ui.css' | relative_url }}">
+    {% endif %}
   </head>
-  <body style="background-color:#fff5d1;">
-    <div class="container-lg px-3 my-5 markdown-body">
+  <body>
+    <header class="site-header" data-pagefind-ignore>
+      <div class="wrap site-header__inner">
+        <a class="site-header__brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+        <nav class="site-nav" aria-label="Navigation principale">
+          <a href="{{ '/' | relative_url }}">Accueil</a>
+          {%- for note in site.data.notes %}
+          <a href="{{ note.url | relative_url }}">{{ note.title }}</a>
+          {%- endfor %}
+        </nav>
+
+        {% if site.pagefind %}
+        <div class="site-search"><div id="search"></div></div>
+        {% endif %}
+
+        <button class="theme-toggle" type="button" aria-label="Basculer entre thème clair et sombre" data-theme-toggle>
+          <span class="theme-toggle__sun" aria-hidden="true">☀</span>
+          <span class="theme-toggle__moon" aria-hidden="true">☾</span>
+        </button>
+      </div>
+    </header>
+
+    {%- comment -%} `data-pagefind-body` : Pagefind n'indexe que le contenu, pas le menu. {%- endcomment -%}
+    <main class="wrap content" data-pagefind-body>
       {{ content }}
-    </div>
+    </main>
+
+    <footer class="site-footer" data-pagefind-ignore>
+      <div class="wrap">
+        <p>© {{ 'now' | date: '%Y' }} {{ site.author }} — <a href="https://github.com/{{ site.github_username }}">github.com/{{ site.github_username }}</a></p>
+      </div>
+    </footer>
+
+    {%- comment -%} Bascule de thème au clic, mémorisée dans le navigateur. {%- endcomment -%}
+    <script>
+      (function () {
+        var root = document.documentElement;
+        var button = document.querySelector('[data-theme-toggle]');
+        if (!button) return;
+        button.addEventListener('click', function () {
+          var current = root.getAttribute('data-theme') ||
+            (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+          var next = current === 'dark' ? 'light' : 'dark';
+          root.setAttribute('data-theme', next);
+          localStorage.setItem('theme', next);
+        });
+      })();
+    </script>
+
+    {% if site.pagefind %}
+    <script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', function () {
+        new PagefindUI({
+          element: '#search',
+          showSubResults: true,
+          bundlePath: "{{ '/pagefind/' | relative_url }}",
+          // Pagefind indexe les URLs depuis la racine du site : on leur
+          // ajoute le baseurl (ex. /roger-srey) pour les sites de projet.
+          processResult: function (result) {
+            var base = "{{ site.baseurl }}";
+            if (base && result.url) result.url = base + result.url;
+            if (base && result.meta && result.meta.url) result.meta.url = base + result.meta.url;
+            return result;
+          },
+          translations: {
+            placeholder: "Rechercher…",
+            clear_search: "Effacer",
+            load_more: "Charger plus de résultats",
+            search_label: "Rechercher sur ce site",
+            zero_results: "Aucun résultat pour [SEARCH_TERM]",
+            many_results: "[COUNT] résultats pour [SEARCH_TERM]",
+            one_result: "[COUNT] résultat pour [SEARCH_TERM]",
+            searching: "Recherche de [SEARCH_TERM]…"
+          }
+        });
+      });
+    </script>
+    {% endif %}
   </body>
 </html>

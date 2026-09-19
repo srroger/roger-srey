@@ -1,0 +1,72 @@
+name: Build et déploiement du site
+
+# Construit le site avec Jekyll, génère l'index de recherche Pagefind,
+# puis publie le tout sur GitHub Pages.
+#
+# Prérequis (une seule fois, côté GitHub) :
+#   Settings -> Pages -> Build and deployment -> Source : "GitHub Actions".
+# Sans ce réglage, ce workflow n'est pas utilisé.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Droits nécessaires pour publier sur GitHub Pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Un seul déploiement à la fois, sans annuler un déploiement déjà en cours.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.4"
+          bundler-cache: true
+
+      - name: Installer Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # configure-pages fournit `base_path` (ici /roger-srey), indispensable
+      # pour que les liens et les images fonctionnent sur un site de projet.
+      - name: Configurer GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Construire le site avec Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Générer l'index de recherche Pagefind
+        run: npx --yes pagefind@1 --site _site
+
+      - name: Empaqueter le site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Déployer sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

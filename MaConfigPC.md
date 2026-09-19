@@ -1,6 +1,6 @@
 ---
-title: Roger Srey
-description: Secrets
+title: Ma configuration PC
+description: Ma configuration PC
 author: Roger Srey
 date: 02-11-25
 lastmod: 03-11-25

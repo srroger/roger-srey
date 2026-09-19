@@ -1,33 +1,37 @@
-
+# --- Métadonnées du site ---
 title: Roger's homepage
 description: Ingénieur développeur & harmoniciste amateur, Sur Terre, nous naissons tous égaux mais certains sont plus égaux que d'autres.
 author: Roger Srey
 email: roger_srey@hotmail.com
-github_username:  srroger
-show_downloads: false
+github_username: srroger
+lang: fr-FR
 encoding: UTF-8
-kramdown:
-  input: GFM
-  hard_wrap: false
-future: true
-jailed: false
-gfm_quirks: paragraph_end
-# theme: jekyll-theme-primer
-# SRRTEST remote_theme: pages-themes/architect@v0.2.0
-remote_theme: pages-themes/primer
+
+# Active la recherche Pagefind dans le layout. L'index n'existe qu'après un
+# build via GitHub Actions (voir .github/workflows/pages.yml).
+pagefind: true
+
+# --- Rendu Markdown ---
 markdown: kramdown
 kramdown:
   input: GFM
-  auto_ids: true # Auto-generate ID's for headings
+  hard_wrap: false
+  auto_ids: true # génère une ancre pour chaque titre
+  gfm_quirks: paragraph_end
+
+# --- Plugins (déclarés dans le Gemfile) ---
 plugins:
-  - jekyll-remote-theme # https://github.com/benbalter/jekyll-remote-theme
-  - jekyll-default-layout # https://github.com/benbalter/jekyll-default-layout
-  - jekyll-default-layout # https://github.com/benbalter/jekyll-titles-from-headings
-  - jekyll-relative-links # https://github.com/benbalter/jekyll-relative-links
-  - jekyll-avatar # https://github.com/benbalter/jekyll-avatar
+  - jekyll-default-layout # applique _layouts/default.html aux pages sans layout
+  - jekyll-relative-links # réécrit les liens Markdown relatifs (ex. ./Inventaire)
+
+# --- Fichiers exclus du site publié ---
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+
+# --- Sass ---
 sass:
-  # Where you keep your scss files
   sass_dir: assets/css/
-  # Where sass should look for other scss
-  load_paths:
-    - node_modules/

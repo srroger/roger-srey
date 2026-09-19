@@ -1,5 +1,5 @@
 ---
-title: Roger Srey
+title: Inventaire
 description: Mon matériel personnel
 author: Roger Srey
 date: 2025-02-11

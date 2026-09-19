@@ -1,0 +1,205 @@
+---
+# Front matter vide : indique à Jekyll de compiler ce fichier SCSS en CSS.
+---
+
+/*
+ * Feuille de style du site.
+ *
+ * Parti pris : un fond crème chaud (#fff5d1, repris de Low-tech Magazine),
+ * des cartes aux coins arrondis et aux ombres douces, et de petites
+ * micro-interactions (léger soulèvement au survol) — dans l'esprit des sites
+ * personnels "soignés" comme sharyap.com, mais sans framework.
+ * Les couleurs sont centralisées ci-dessous pour rester faciles à ajuster.
+ */
+
+/* --- Thème clair (par défaut) ----------------------------------------- */
+:root {
+  --bg: #fff5d1;        /* fond crème */
+  --surface: #fffdf7;   /* cartes, encadrés, code */
+  --ink: #2a2721;       /* texte principal */
+  --muted: #7c7466;     /* texte secondaire */
+  --border: #ece1c2;    /* bordures douces */
+  --accent: #b4652a;    /* laiton / cuivre, clin d'œil à l'harmonica */
+  --shadow-sm: 0 1px 2px rgba(70, 50, 20, .06), 0 1px 3px rgba(70, 50, 20, .05);
+  --shadow-md: 0 6px 16px rgba(70, 50, 20, .12);
+  --radius: 14px;       /* rayon des coins */
+  --wrap: 820px;        /* largeur de lecture */
+}
+
+/* --- Thème sombre ----------------------------------------------------- */
+/* Appliqué si l'utilisateur l'a choisi, ou selon les préférences système
+   tant qu'il n'a rien choisi. */
+@mixin dark-theme {
+  --bg: #1b1a17;
+  --surface: #23211c;
+  --ink: #f0ead9;
+  --muted: #a89f8b;
+  --border: #37332a;
+  --accent: #d98a4b;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, .30), 0 1px 3px rgba(0, 0, 0, .25);
+  --shadow-md: 0 6px 16px rgba(0, 0, 0, .45);
+}
+
+[data-theme="dark"] { @include dark-theme; }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { @include dark-theme; }
+}
+
+/* --- Base ------------------------------------------------------------- */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Conteneur centré, largeur confortable pour la lecture. */
+.wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 1.25rem; }
+
+/* --- En-tête ---------------------------------------------------------- */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+
+.site-header__inner {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .4rem 1rem;
+  padding: .7rem 1.25rem;
+}
+
+.site-header__brand { font-weight: 700; color: var(--ink); }
+.site-header__brand:hover { text-decoration: none; color: var(--accent); }
+
+.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; font-size: .95rem; margin-right: auto; }
+.site-nav a { color: var(--muted); }
+.site-nav a:hover { color: var(--accent); text-decoration: none; }
+
+/* Recherche Pagefind (n'apparaît que si l'index a été généré au build). */
+.site-search { flex: 0 1 260px; }
+
+/* Bouton de bascule clair/sombre. */
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: var(--surface);
+  color: var(--ink);
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.theme-toggle:hover { transform: translateY(-2px) scale(1.05); box-shadow: var(--shadow-sm); }
+.theme-toggle:active { transform: scale(.92); }
+
+/* Icône affichée selon le thème actif. */
+.theme-toggle__sun { display: none; }
+[data-theme="dark"] .theme-toggle__sun { display: inline; }
+[data-theme="dark"] .theme-toggle__moon { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle__sun { display: inline; }
+  :root:not([data-theme="light"]) .theme-toggle__moon { display: none; }
+}
+
+/* --- Contenu ---------------------------------------------------------- */
+.content { padding-top: 2.5rem; padding-bottom: 4rem; }
+.content h1 { font-size: 2rem; line-height: 1.2; }
+.content h2 { margin-top: 2.2rem; }
+.content h3 { margin-top: 1.6rem; }
+
+.content img { max-width: 100%; height: auto; border-radius: 12px; }
+
+.content blockquote {
+  margin: 1.5rem 0;
+  padding: .35rem 0 .35rem 1.1rem;
+  border-left: 3px solid var(--accent);
+  color: var(--muted);
+}
+
+.content code {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: .1em .35em;
+  font-size: .9em;
+}
+.content pre {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem;
+  overflow-x: auto;
+}
+.content pre code { border: 0; background: none; padding: 0; }
+
+.content table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: .95rem; }
+.content th, .content td { border: 1px solid var(--border); padding: .5rem .7rem; text-align: left; }
+.content th { background: var(--surface); }
+
+.content hr { border: 0; border-top: 1px solid var(--border); margin: 2.5rem 0; }
+
+/* --- Grille de cartes de l'accueil ------------------------------------ */
+.notes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.note-card {
+  display: flex;
+  flex-direction: column;
+  gap: .3rem;
+  padding: 1.1rem 1.2rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  color: inherit;
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+.note-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--accent);
+  text-decoration: none;
+}
+.note-card:active { transform: translateY(-1px) scale(.985); }
+
+.note-card__icon { font-size: 1.6rem; line-height: 1; }
+.note-card__title { font-weight: 700; }
+.note-card__desc { color: var(--muted); font-size: .9rem; }
+
+/* --- Pied de page ----------------------------------------------------- */
+.site-footer {
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: .9rem;
+  padding: 1.5rem 0 2.5rem;
+  text-align: center;
+}
+
+/* --- Ajustements mobiles ---------------------------------------------- */
+@media (max-width: 600px) {
+  .site-header__inner { padding: .6rem 1rem; }
+  .site-search { order: 3; flex: 1 1 100%; }
+}
