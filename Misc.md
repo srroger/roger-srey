@@ -103,6 +103,24 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
 # Games
 - [Jeux retro: gam.onl](https://gam.onl/) : Un site pour jouer a des jeux retro à partir de son navigateur.
 
+# Avatars
+
+![]({{ '/images/avatar-sr-1024.png' | relative_url }})
+
+![]({{ '/images/avatar-sr-460.png' | relative_url }})
+
+![]({{ '/images/SR_E_avatar.png' | relative_url }})
+
+![]({{ '/images/SR_E.png' | relative_url }})
+
+![]({{ '/images/avatar-r-1024.png' | relative_url }})
+
+![]({{ '/images/avatar-r-460.png' | relative_url }})
+
+![]({{ '/images/avatar-photo-1024.png' | relative_url }})
+
+![]({{ '/images/avatar-photo-460.png' | relative_url }})
+
 <!-- Le script qui injecte exactement iframe dans mes embed youtube video-->
 <script>
 (function() {
