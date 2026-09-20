@@ -8,7 +8,7 @@ Markdown, publiés sur GitHub Pages.
 
 Le reste du contenu vit dans les notes `.md` à la racine (`Inventaire.md`,
 `Livres.md`, …). La mise en page est dans `_layouts/default.html`, le style dans
-`assets/css/style.scss` et la liste affichée en cartes dans `_data/notes.yml`.
+`assets/css/style.scss` et les cartes de l'accueil directement dans `index.md`.
 
 ## Recherche
 

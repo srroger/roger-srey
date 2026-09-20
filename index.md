@@ -29,7 +29,34 @@ Radiographiés sur un arceau prototype de type C-arm, les harmonicas Arkia et Ma
 ## Notes
 Ce site n'est utile que pour moi-même.
 
-{% include notes-grid.html %}
+<!-- Cartes de l'accueil : HTML brut volontaire, gardé ici pour tout avoir au même endroit. -->
+<div class="notes-grid">
+  <a class="note-card" href="{{ '/Inventaire' | relative_url }}">
+    <span class="note-card__icon" aria-hidden="true">🎒</span>
+    <span class="note-card__title">Inventaire</span>
+    <span class="note-card__desc">Mon matériel personnel</span>
+  </a>
+  <a class="note-card" href="{{ '/Livres' | relative_url }}">
+    <span class="note-card__icon" aria-hidden="true">📚</span>
+    <span class="note-card__title">Livres</span>
+    <span class="note-card__desc">Ma bibliothèque</span>
+  </a>
+  <a class="note-card" href="{{ '/Maison' | relative_url }}">
+    <span class="note-card__icon" aria-hidden="true">🏠</span>
+    <span class="note-card__title">Maison</span>
+    <span class="note-card__desc">Mobilier, vêtements, cuisine</span>
+  </a>
+  <a class="note-card" href="{{ '/MaConfigPC' | relative_url }}">
+    <span class="note-card__icon" aria-hidden="true">💻</span>
+    <span class="note-card__title">Config PC</span>
+    <span class="note-card__desc">Ma configuration</span>
+  </a>
+  <a class="note-card" href="{{ '/Misc' | relative_url }}">
+    <span class="note-card__icon" aria-hidden="true">🧭</span>
+    <span class="note-card__title">Trucs</span>
+    <span class="note-card__desc">Liens et choses en vrac</span>
+  </a>
+</div>
 
 ## Les notes des copains
 [Noeuds de Romain](https://www.monin.vip/codex/outdoor-camp-knots/)
