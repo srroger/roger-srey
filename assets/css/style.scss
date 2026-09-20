@@ -12,8 +12,14 @@
  * Les couleurs sont centralisées ci-dessous pour rester faciles à ajuster.
  */
 
-/* --- Thème clair (par défaut) ----------------------------------------- */
+/* --- Thème clair (unique) --------------------------------------------- */
 :root {
+  /* Le site est volontairement en clair uniquement, quel que soit le
+     réglage système : `color-scheme: light` évite en plus que certains
+     navigateurs mobiles (Chrome Android, Samsung Internet) n'appliquent
+     leur "mode sombre forcé" aux pages qui ne déclarent rien. */
+  color-scheme: light;
+
   --bg: #fff5d1;        /* fond crème */
   --surface: #fffdf7;   /* cartes, encadrés, code */
   --ink: #2a2721;       /* texte principal */
@@ -32,23 +38,6 @@
   --pagefind-ui-background: var(--surface);
   --pagefind-ui-border: var(--border);
   --pagefind-ui-font: inherit;
-}
-
-/* --- Thème sombre ----------------------------------------------------- */
-/* Appliqué automatiquement selon les préférences système. */
-@mixin dark-theme {
-  --bg: #1b1a17;
-  --surface: #23211c;
-  --ink: #f0ead9;
-  --muted: #a89f8b;
-  --border: #37332a;
-  --accent: #d98a4b;
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, .30), 0 1px 3px rgba(0, 0, 0, .25);
-  --shadow-md: 0 6px 16px rgba(0, 0, 0, .45);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root { @include dark-theme; }
 }
 
 /* --- Base ------------------------------------------------------------- */
