@@ -105,6 +105,10 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
 
 # Avatars
 
+![]({{ '/images/avatar-srLine-1024.png' | relative_url }})
+
+![]({{ '/images/avatar-srLine-460.png' | relative_url }})
+
 ![]({{ '/images/avatar-sr-1024.png' | relative_url }})
 
 ![]({{ '/images/avatar-sr-460.png' | relative_url }})
