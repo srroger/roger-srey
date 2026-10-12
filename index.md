@@ -29,7 +29,7 @@ Radiographiés sur un arceau prototype de type C-arm, les harmonicas Arkia et Ma
 ## Notes
 Ce site n'est utile que pour moi-même.
 
-<!-- Cartes de l'accueil : HTML brut volontaire, gardé ici pour tout avoir au même endroit. -->
+<!-- Cartes de l'accueil : HTML brut volontaire, gardé ici pour tout avoir au même endroit.
 <div class="notes-grid">
   <a class="note-card" href="{{ '/Inventaire' | relative_url }}">
     <span class="note-card__icon" aria-hidden="true">🎒</span>
@@ -57,6 +57,18 @@ Ce site n'est utile que pour moi-même.
     <span class="note-card__desc">Liens et choses en vrac</span>
   </a>
 </div>
+ -->
+ 
+[Inventaire](./Inventaire)
+
+[Livres](./Livres)
+
+[Maison](./Maison)
+
+[Ma config perso](./MaConfigPC)
+
+[Des trucs](./Misc)
+
 
 ## Les notes des copains
 [Noeuds de Romain](https://www.monin.vip/codex/outdoor-camp-knots/)
