@@ -106,7 +106,7 @@ Plein de choses en vrac avec plus ou moins d'intérêt.
 # Autres
 - [Comment lacer ses redwing](https://www.primermagazine.com/2024/learn/heel-slip-boot-lacing) : Méthode pour que le talon soit mieux serrer.
 
-<img src="https://www.primermagazine.com/wp-content/uploads/2014/10/HeelLock/Tie-heel-lock-animation.gif" alt="HeelLock" width="300" height=auto>
+![]({{ '/images/Tie-heel-lock-animation.gif' | relative_url }})
 
 # Avatars
 
